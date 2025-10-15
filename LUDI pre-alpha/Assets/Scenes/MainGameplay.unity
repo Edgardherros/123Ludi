@@ -706,6 +706,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   selectingTower: 0
+  answerManager: {fileID: 1542203048}
+  questionManager: {fileID: 1225027602}
   towerContainer: {fileID: 640997588}
   tower1: {fileID: 682185244}
   tower2: {fileID: 1104993662}
@@ -1380,13 +1382,49 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 228787847}
+      - m_Target: {fileID: 682185244}
         m_TargetAssemblyTypeName: TowerManager, Assembly-CSharp
-        m_MethodName: pickedTower
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1104993664}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 874934708}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -2342,6 +2380,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 696e31943cb6d4748847f33ffab7050d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  answerManager: {fileID: 1542203048}
+  TowerManager: {fileID: 228787847}
   questionGO: {fileID: 110064354}
   question: {fileID: 1800884061}
 --- !u!4 &1225027603
@@ -2524,6 +2564,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5732d967b1fc13419ad93e2b7e11c8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  questionManager: {fileID: 1225027602}
+  towerManager: {fileID: 228787847}
   answerContainer: {fileID: 1033025595}
   answer1Text: {fileID: 240867639}
   answer2Text: {fileID: 1058396961}
