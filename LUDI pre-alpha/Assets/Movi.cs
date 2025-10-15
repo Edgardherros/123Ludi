@@ -4,7 +4,7 @@ public class Moviment : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     float maxSpeed = 10f;
-     Rigidbody2D rb;
+    Rigidbody2D rb;
     // Update is called once per frame
     void Start()
     {
@@ -13,7 +13,7 @@ public class Moviment : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A))
         {
             rb.AddForce(new Vector2(-10f, 0f));
         }
@@ -35,3 +35,4 @@ public class Moviment : MonoBehaviour
         }
     }
 }
+

@@ -35,7 +35,7 @@ public class AdioSetings : MonoBehaviour
     public void SetMusicVolume()
     {
         float volume = mySlider.value;
-        audioMixer.SetFloat("Music", Mathf.Log10(volume)*20);
+        audioMixer.SetFloat("Music", Mathf.Log10(volume) * 20);
         PlayerPrefs.SetFloat("musicVolume", volume);
 
     }
@@ -56,11 +56,11 @@ public class AdioSetings : MonoBehaviour
     private void LoadMusicValue()
     {
         mySlider.value = PlayerPrefs.GetFloat("musicVolume");
-        SetMusicVolume();       
+        SetMusicVolume();
     }
     private void LoadSFXValue()
     {
-        mySlider2.value = PlayerPrefs.GetFloat("SFXVolume");      
+        mySlider2.value = PlayerPrefs.GetFloat("SFXVolume");
         SetSFXVolume();
     }
     private void LoadGeneralValue()
@@ -69,3 +69,4 @@ public class AdioSetings : MonoBehaviour
         SetGeneralVolume();
     }
 }
+
