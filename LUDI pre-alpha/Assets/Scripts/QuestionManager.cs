@@ -1,16 +1,17 @@
+using TMPro;
 using UnityEngine;
 
 public class QuestionManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    [SerializeField] AnswerManager answerManager;
+    [SerializeField] TowerManager TowerManager;
 
-    // Update is called once per frame
-    void Update()
+
+    [SerializeField] GameObject questionGO;
+    [SerializeField] TextMeshProUGUI question;
+
+    public void showQuestions()
     {
-        
+
     }
 }
