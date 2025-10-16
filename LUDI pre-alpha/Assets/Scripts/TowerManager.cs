@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class TowerManager : MonoBehaviour
 {
@@ -7,14 +8,20 @@ public class TowerManager : MonoBehaviour
     [SerializeField] AnswerManager answerManager;
     [SerializeField] QuestionManager questionManager;
 
-    [SerializeField] GameObject towerContainer;
-    [SerializeField] GameObject tower1;
-    [SerializeField] GameObject tower2;
-    [SerializeField] GameObject tower3;
+    [SerializeField] Button tower1;
+    [SerializeField] Button tower2;
+    [SerializeField] Button tower3;
 
-    public bool tower1Cleared;
-    public bool tower2Cleared;
-    public bool tower3Cleared;
+
+    public bool tower1Cleared = false;
+    public bool tower2Cleared = false;
+    public bool tower3Cleared = false;
+
+    public enum TowerType
+    {
+        semantica, lexico, ortografia, none
+    }
+    [HideInInspector] public TowerType currentTower;
 
 
 
@@ -22,20 +29,53 @@ public class TowerManager : MonoBehaviour
     void Start()
     {
         selectingTower = true;
+        
     }
 
     // Update is called once per frame
-    
 
-    public void pickedTower()
+
+    public void towerHasBeenChosen(int towerNumber)
     {
-        towerContainer.SetActive(false);
-        questionManager.showQuestions();
-        answerManager.showAnswers();
+        
+        switch (towerNumber)
+        {
+            case 1:
+                currentTower = TowerType.semantica;
+                tower1Cleared = true;
+                break;
+            case 2:
+                currentTower = TowerType.lexico;
+                tower2Cleared = true; 
+                break;
+            case 3:
+                currentTower = TowerType.ortografia;
+                tower3Cleared = true;
+
+                break;
+            default:
+                Debug.LogError("ERROR: 'towerHasBeenChosen' HAS AN INCORRECT VALUE GIVEN THE CONTEXT");
+                break;
+        }
+        questionManager.setQuestion();
+        
     }
 
     public void reactivateTowers()
     {
-        towerContainer.SetActive(true);
+        if (tower1Cleared)
+            tower1.interactable = false;
+        else
+            tower1.interactable = true;
+        if (tower2Cleared)
+            tower2.interactable = false;
+        else
+            tower2.interactable = true;
+        if (tower3Cleared)
+            tower3.interactable = false;
+        else
+            tower3.interactable = true;
+        
+        currentTower = TowerType.none;
     }
 }

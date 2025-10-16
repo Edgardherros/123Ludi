@@ -338,7 +338,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 21500835}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1542203048}
+        m_TargetAssemblyTypeName: AnswerManager, Assembly-CSharp
+        m_MethodName: chosenAnswer
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &21500835
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -412,7 +424,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.52719843}
   m_AnchorMax: {x: 1, y: 0.8485344}
-  m_AnchoredPosition: {x: 0, y: 29}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &110064356
@@ -535,7 +547,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 190881676}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1542203048}
+        m_TargetAssemblyTypeName: AnswerManager, Assembly-CSharp
+        m_MethodName: chosenAnswer
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &190881676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -708,13 +732,13 @@ MonoBehaviour:
   selectingTower: 0
   answerManager: {fileID: 1542203048}
   questionManager: {fileID: 1225027602}
-  towerContainer: {fileID: 640997588}
-  tower1: {fileID: 682185244}
-  tower2: {fileID: 1104993662}
-  tower3: {fileID: 874934706}
+  tower1: {fileID: 682185246}
+  tower2: {fileID: 1104993664}
+  tower3: {fileID: 874934708}
   tower1Cleared: 0
   tower2Cleared: 0
   tower3Cleared: 0
+  currentTower: 0
 --- !u!4 &228787848
 Transform:
   m_ObjectHideFlags: 0
@@ -948,7 +972,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 490525476}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1542203048}
+        m_TargetAssemblyTypeName: AnswerManager, Assembly-CSharp
+        m_MethodName: chosenAnswer
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 4
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &490525476
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1382,10 +1418,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 682185244}
-        m_TargetAssemblyTypeName: TowerManager, Assembly-CSharp
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 682185246}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1418,17 +1454,41 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 110064354}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 1033025595}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 228787847}
+        m_TargetAssemblyTypeName: TowerManager, Assembly-CSharp
+        m_MethodName: towerHasBeenChosen
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &682185247
 MonoBehaviour:
@@ -1685,14 +1745,14 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 874934709}
+  m_TargetGraphic: {fileID: 682185247}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 228787847}
-        m_TargetAssemblyTypeName: TowerManager, Assembly-CSharp
-        m_MethodName: pickedTower
-        m_Mode: 1
+      - m_Target: {fileID: 682185246}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1700,6 +1760,66 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1104993664}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 874934708}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 110064354}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 1033025595}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 228787847}
+        m_TargetAssemblyTypeName: TowerManager, Assembly-CSharp
+        m_MethodName: towerHasBeenChosen
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &874934709
 MonoBehaviour:
@@ -1833,7 +1953,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1033025596
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2072,18 +2192,78 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 1104993665}
+  m_TargetGraphic: {fileID: 682185247}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 228787847}
-        m_TargetAssemblyTypeName: TowerManager, Assembly-CSharp
-        m_MethodName: pickedTower
-        m_Mode: 1
+      - m_Target: {fileID: 682185246}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1104993664}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 874934708}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Button, UnityEngine.UI
+        m_MethodName: set_interactable
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 110064354}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 1033025595}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 228787847}
+        m_TargetAssemblyTypeName: TowerManager, Assembly-CSharp
+        m_MethodName: towerHasBeenChosen
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 1
@@ -2208,7 +2388,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1154195978}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1542203048}
+        m_TargetAssemblyTypeName: AnswerManager, Assembly-CSharp
+        m_MethodName: chosenAnswer
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1154195978
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2381,9 +2573,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   answerManager: {fileID: 1542203048}
-  TowerManager: {fileID: 228787847}
-  questionGO: {fileID: 110064354}
+  towerManager: {fileID: 228787847}
   question: {fileID: 1800884061}
+  semanticsQuestions:
+  - albondiga?1
+  - albondiga?2
+  - albondiga?3
+  - albondiga?4
+  - albondiga?5
+  grammarQuestions:
+  - mayonesa?1
+  - mayonesa?2
+  - mayonesa?3
+  - mayonesa?4
+  - mayonesa?5
+  ortographyQuestions:
+  - Venezuela?1
+  - Venezuela?2
+  - Venezuela?3
+  - Venezuela?4
+  - Venezuela?5
 --- !u!4 &1225027603
 Transform:
   m_ObjectHideFlags: 0
@@ -2566,11 +2775,85 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questionManager: {fileID: 1225027602}
   towerManager: {fileID: 228787847}
-  answerContainer: {fileID: 1033025595}
+  question: {fileID: 110064354}
+  towers: {fileID: 640997588}
+  answers: {fileID: 1033025595}
   answer1Text: {fileID: 240867639}
   answer2Text: {fileID: 1058396961}
   answer3Text: {fileID: 2065054084}
   answer4Text: {fileID: 602072176}
+  semanticsQuestions1:
+  - 1al
+  - 2al
+  - 3al
+  - 4al
+  - 5al
+  semanticsQuestions2:
+  - 1bon
+  - 2bon
+  - 3bon
+  - 4bon
+  - 5bon
+  semanticsQuestions3:
+  - 1di
+  - 2di
+  - 3di
+  - 4di
+  - 5di
+  semanticsQuestions4:
+  - 1ga
+  - 2ga
+  - 3ga
+  - 4ga
+  - 5ga
+  grammarQuestions1:
+  - 1ma
+  - 2ma
+  - 3ma
+  - 4ma
+  - 5ma
+  grammarQuestions2:
+  - 1yo
+  - 2yo
+  - 3yo
+  - 4yo
+  - 5yo
+  grammarQuestions3:
+  - 1ne
+  - 2ne
+  - 3ne
+  - 4ne
+  - 5ne
+  grammarQuestions4:
+  - 1sa
+  - 2sa
+  - 3sa
+  - 4sa
+  - 5sa
+  ortographyQuestions1:
+  - 1ve
+  - 2ve
+  - 3ve
+  - 4ve
+  - 5ve
+  ortographyQuestions2:
+  - 1ne
+  - 2ne
+  - 3ne
+  - 4ne
+  - 5ne
+  ortographyQuestions3:
+  - 1zue
+  - 2zue
+  - 3zue
+  - 4zue
+  - 5zue
+  ortographyQuestions4:
+  - 1la
+  - 2la
+  - 3la
+  - 4la
+  - 5la
 --- !u!4 &1542203049
 Transform:
   m_ObjectHideFlags: 0
@@ -2618,10 +2901,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 110064355}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0.05745986, y: 0.046394616}
+  m_AnchorMax: {x: 0.93154013, y: 0.94289887}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1800884061
 MonoBehaviour:
@@ -2643,7 +2926,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: aaaaaaaaaaaaaaaaaa
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2652,8 +2935,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2708,7 +2991,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -277.90582, y: -212.14177, z: -288.51285, w: -237.42882}
+  m_margin: {x: 2.874299, y: 2.5167313, z: 1.1139374, w: -2.204132}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
