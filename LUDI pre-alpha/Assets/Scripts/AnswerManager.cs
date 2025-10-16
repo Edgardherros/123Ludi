@@ -7,6 +7,7 @@ public class AnswerManager : MonoBehaviour
 {
     [SerializeField] QuestionManager questionManager;
     [SerializeField] TowerManager towerManager;
+    [SerializeField] TotalAnswers totalAnswers;
 
     [SerializeField] GameObject question;
     [SerializeField] GameObject towers;
@@ -33,7 +34,7 @@ public class AnswerManager : MonoBehaviour
     int rightAnswerPosition;
 
     const int maxQuestions = 5;
-    const int minQuestionsToPass = 9;
+    const int minQuestionsToPass = 9; // Esto de momento no se usa
 
     int questionsAnswered = 0;
     int rightAnswered = 0;
@@ -128,6 +129,7 @@ public class AnswerManager : MonoBehaviour
         if (position == rightAnswerPosition)
         {
             rightAnswered++;
+            totalAnswers.answerWasCorrect();
         }
         
         
