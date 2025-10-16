@@ -7,6 +7,7 @@ public class TowerManager : MonoBehaviour
     [HideInInspector] public bool selectingTower;
     [SerializeField] AnswerManager answerManager;
     [SerializeField] QuestionManager questionManager;
+    [SerializeField] TotalAnswers TotalAnswers;
 
     [SerializeField] Button tower1;
     [SerializeField] Button tower2;
@@ -57,6 +58,7 @@ public class TowerManager : MonoBehaviour
                 Debug.LogError("ERROR: 'towerHasBeenChosen' HAS AN INCORRECT VALUE GIVEN THE CONTEXT");
                 break;
         }
+
         questionManager.setQuestion();
         
     }
@@ -77,5 +79,10 @@ public class TowerManager : MonoBehaviour
             tower3.interactable = true;
         
         currentTower = TowerType.none;
+
+        if(tower1Cleared && tower2Cleared && tower3Cleared)
+        {
+            TotalAnswers.setResultsScreen();
+        }
     }
 }

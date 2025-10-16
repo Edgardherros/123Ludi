@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AnswerManager : MonoBehaviour
 {
@@ -17,6 +18,8 @@ public class AnswerManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI answer2Text;
     [SerializeField] TextMeshProUGUI answer3Text;
     [SerializeField] TextMeshProUGUI answer4Text;
+
+    [SerializeField] Image[] answerButtonsImage;
 
     [SerializeField] string[] semanticsQuestions1;
     [SerializeField] string[] semanticsQuestions2;
@@ -34,10 +37,9 @@ public class AnswerManager : MonoBehaviour
     int rightAnswerPosition;
 
     const int maxQuestions = 5;
-    const int minQuestionsToPass = 9; // Esto de momento no se usa
 
     int questionsAnswered = 0;
-    int rightAnswered = 0;
+    public int rightAnswered = 0;
 
     public void setAnswers(TowerManager.TowerType type, int position)
     {
@@ -115,10 +117,8 @@ public class AnswerManager : MonoBehaviour
                     }
                 }
 
-                break;
+            break;
         }
-        
-
     }
 
     public void chosenAnswer(int position)
@@ -129,7 +129,12 @@ public class AnswerManager : MonoBehaviour
         if (position == rightAnswerPosition)
         {
             rightAnswered++;
+            answerButtonsImage[position - 1].color = Color.green;
             totalAnswers.answerWasCorrect();
+        }
+        else
+        {
+            answerButtonsImage[position - 1].color = Color.red;
         }
         
         
