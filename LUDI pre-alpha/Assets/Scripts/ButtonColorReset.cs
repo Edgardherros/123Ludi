@@ -3,12 +3,13 @@ using UnityEngine.UI;
 
 public class ButtonColorReset : MonoBehaviour
 {
-    const float colorResetValue = 0.5f;
+    const float colorResetValue = 2.5f;
 
     Image image;
-    void Start()
+    void Awake()
     {
         image = GetComponent<Image>();
+        image.color = new Color(255, 255, 255, 1);
     }
 
     // Update is called once per frame
