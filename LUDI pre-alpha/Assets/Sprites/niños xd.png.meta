@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 482a1430b5223c44f99f2ff1ac866557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4642235734248195103
+    second: "ni\xF1os xd_0"
+  - first:
+      213: 4386855888807949305
+    second: "ni\xF1os xd_1"
+  - first:
+      213: 2348860559636875338
+    second: "ni\xF1os xd_2"
+  - first:
+      213: 8018455253282878204
+    second: "ni\xF1os xd_3"
+  - first:
+      213: -3153241143707231130
+    second: "ni\xF1os xd_4"
+  - first:
+      213: -4195038817150738427
+    second: "ni\xF1os xd_5"
+  - first:
+      213: -5709674780660221583
+    second: "ni\xF1os xd_6"
+  - first:
+      213: -1977108054960499694
+    second: "ni\xF1os xd_7"
+  - first:
+      213: 952188772987791933
+    second: "ni\xF1os xd_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "ni\xF1os xd_0"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1289
+        width: 1144
+        height: 1921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f140d7ffdc88c6040800000000000000
+      internalID: 4642235734248195103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ni\xF1os xd_1"
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1381
+        width: 998
+        height: 1843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f37a35303e31ec30800000000000000
+      internalID: 4386855888807949305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ni\xF1os xd_2"
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 1401
+        width: 1041
+        height: 1819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48c414fb34d89020800000000000000
+      internalID: 2348860559636875338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ni\xF1os xd_3"
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 1425
+        width: 997
+        height: 1756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf27a4bb196474f60800000000000000
+      internalID: 8018455253282878204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ni\xF1os xd_4"
+      rect:
+        serializedVersion: 2
+        x: 5437
+        y: 1425
+        width: 1061
+        height: 1888
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1f2ae2ef6d34d0800000000000000
+      internalID: -3153241143707231130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ni\xF1os xd_5"
+      rect:
+        serializedVersion: 2
+        x: 6577
+        y: 1518
+        width: 998
+        height: 1755
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50061cc0c6a38c5c0800000000000000
+      internalID: -4195038817150738427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ni\xF1os xd_6"
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 1479
+        width: 1148
+        height: 1829
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179bdb3c90923c0b0800000000000000
+      internalID: -5709674780660221583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ni\xF1os xd_7"
+      rect:
+        serializedVersion: 2
+        x: 8891
+        y: 1587
+        width: 1002
+        height: 1804
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214148df2b6ef84e0800000000000000
+      internalID: -1977108054960499694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5f422560bd6601d4f9c52d3a7e7545c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "ni\xF1os xd_0": 4642235734248195103
+      "ni\xF1os xd_1": 4386855888807949305
+      "ni\xF1os xd_2": 2348860559636875338
+      "ni\xF1os xd_3": 8018455253282878204
+      "ni\xF1os xd_4": -3153241143707231130
+      "ni\xF1os xd_5": -4195038817150738427
+      "ni\xF1os xd_6": -5709674780660221583
+      "ni\xF1os xd_7": -1977108054960499694
+      "ni\xF1os xd_8": 952188772987791933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

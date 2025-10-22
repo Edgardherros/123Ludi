@@ -1,0 +1,3965 @@
+fileFormatVersion: 2
+guid: a47b3fd79b0387b499ff743bc89add94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4436302206250147733
+    second: derrota_Efecto-fondo_0
+  - first:
+      213: -8812694554989378997
+    second: derrota_Efecto-fondo_1
+  - first:
+      213: 4023825135581875631
+    second: derrota_Efecto-fondo_2
+  - first:
+      213: -6791620428062950244
+    second: derrota_Efecto-fondo_3
+  - first:
+      213: -7446197467887803971
+    second: derrota_Efecto-fondo_4
+  - first:
+      213: 8917192586621234012
+    second: derrota_Efecto-fondo_5
+  - first:
+      213: -5314493500365257894
+    second: derrota_Efecto-fondo_6
+  - first:
+      213: 1279364607857596224
+    second: derrota_Efecto-fondo_7
+  - first:
+      213: -4047366349975070654
+    second: derrota_Efecto-fondo_8
+  - first:
+      213: 982799981827451594
+    second: derrota_Efecto-fondo_9
+  - first:
+      213: -672910689223002062
+    second: derrota_Efecto-fondo_10
+  - first:
+      213: 7453079499420927523
+    second: derrota_Efecto-fondo_11
+  - first:
+      213: -7084029429410929628
+    second: derrota_Efecto-fondo_12
+  - first:
+      213: 8512594561443867725
+    second: derrota_Efecto-fondo_13
+  - first:
+      213: 8070844258066430497
+    second: derrota_Efecto-fondo_14
+  - first:
+      213: -107540206444846492
+    second: derrota_Efecto-fondo_15
+  - first:
+      213: 4524709976021025969
+    second: derrota_Efecto-fondo_16
+  - first:
+      213: 4505085042125043006
+    second: derrota_Efecto-fondo_17
+  - first:
+      213: 8742212117378383318
+    second: derrota_Efecto-fondo_18
+  - first:
+      213: 6878162590629187091
+    second: derrota_Efecto-fondo_19
+  - first:
+      213: 2263605885642549020
+    second: derrota_Efecto-fondo_20
+  - first:
+      213: 3262618802983277122
+    second: derrota_Efecto-fondo_21
+  - first:
+      213: -7156580652510300594
+    second: derrota_Efecto-fondo_22
+  - first:
+      213: 2687724415389214684
+    second: derrota_Efecto-fondo_23
+  - first:
+      213: -4440626982841345306
+    second: derrota_Efecto-fondo_24
+  - first:
+      213: 4050207169338702644
+    second: derrota_Efecto-fondo_25
+  - first:
+      213: -4992698009445194803
+    second: derrota_Efecto-fondo_26
+  - first:
+      213: 3772839811230537597
+    second: derrota_Efecto-fondo_27
+  - first:
+      213: -8933696814343055298
+    second: derrota_Efecto-fondo_28
+  - first:
+      213: -4813854819680107907
+    second: derrota_Efecto-fondo_29
+  - first:
+      213: 2806676149233824841
+    second: derrota_Efecto-fondo_30
+  - first:
+      213: 6101133689320655647
+    second: derrota_Efecto-fondo_31
+  - first:
+      213: -2512803463543574192
+    second: derrota_Efecto-fondo_32
+  - first:
+      213: -3711528005016862188
+    second: derrota_Efecto-fondo_33
+  - first:
+      213: 8029600170048076862
+    second: derrota_Efecto-fondo_34
+  - first:
+      213: -4356263710739304780
+    second: derrota_Efecto-fondo_35
+  - first:
+      213: -4609341349221773550
+    second: derrota_Efecto-fondo_36
+  - first:
+      213: -8442349374781721196
+    second: derrota_Efecto-fondo_37
+  - first:
+      213: -3833895657211440210
+    second: derrota_Efecto-fondo_38
+  - first:
+      213: -3044841451251235822
+    second: derrota_Efecto-fondo_39
+  - first:
+      213: -7768951423170706324
+    second: derrota_Efecto-fondo_40
+  - first:
+      213: -4427997989478615766
+    second: derrota_Efecto-fondo_41
+  - first:
+      213: 7023963123769760822
+    second: derrota_Efecto-fondo_42
+  - first:
+      213: -4537853713563926231
+    second: derrota_Efecto-fondo_43
+  - first:
+      213: 538761283457411818
+    second: derrota_Efecto-fondo_44
+  - first:
+      213: -2206026083772620285
+    second: derrota_Efecto-fondo_45
+  - first:
+      213: -8579813729044332259
+    second: derrota_Efecto-fondo_46
+  - first:
+      213: 8084144247602000259
+    second: derrota_Efecto-fondo_47
+  - first:
+      213: -362106561723752203
+    second: derrota_Efecto-fondo_48
+  - first:
+      213: -3569932332269047759
+    second: derrota_Efecto-fondo_49
+  - first:
+      213: 6996126682782124652
+    second: derrota_Efecto-fondo_50
+  - first:
+      213: -6751953931220729533
+    second: derrota_Efecto-fondo_51
+  - first:
+      213: 3161481094734155064
+    second: derrota_Efecto-fondo_52
+  - first:
+      213: -5913758660688558192
+    second: derrota_Efecto-fondo_53
+  - first:
+      213: -3820735012893595928
+    second: derrota_Efecto-fondo_54
+  - first:
+      213: -7915605334772765616
+    second: derrota_Efecto-fondo_55
+  - first:
+      213: -4764390378335495447
+    second: derrota_Efecto-fondo_56
+  - first:
+      213: 5566050903933372833
+    second: derrota_Efecto-fondo_57
+  - first:
+      213: 6165742117813248776
+    second: derrota_Efecto-fondo_58
+  - first:
+      213: 4993885753908743137
+    second: derrota_Efecto-fondo_59
+  - first:
+      213: 7394172193015810094
+    second: derrota_Efecto-fondo_60
+  - first:
+      213: -5988298149642395555
+    second: derrota_Efecto-fondo_61
+  - first:
+      213: 8333920792839611707
+    second: derrota_Efecto-fondo_62
+  - first:
+      213: -5451995687045436483
+    second: derrota_Efecto-fondo_63
+  - first:
+      213: -3578233573058289872
+    second: derrota_Efecto-fondo_64
+  - first:
+      213: -6243091270876923994
+    second: derrota_Efecto-fondo_65
+  - first:
+      213: 8081602275258641557
+    second: derrota_Efecto-fondo_66
+  - first:
+      213: 8869975939288077665
+    second: derrota_Efecto-fondo_67
+  - first:
+      213: 6090411343703947349
+    second: derrota_Efecto-fondo_68
+  - first:
+      213: 6908369459678045163
+    second: derrota_Efecto-fondo_69
+  - first:
+      213: -590381660615974935
+    second: derrota_Efecto-fondo_70
+  - first:
+      213: 3310305810654116318
+    second: derrota_Efecto-fondo_71
+  - first:
+      213: -8572601584392248579
+    second: derrota_Efecto-fondo_72
+  - first:
+      213: 1446862806682133703
+    second: derrota_Efecto-fondo_73
+  - first:
+      213: 5013689873468897532
+    second: derrota_Efecto-fondo_74
+  - first:
+      213: -6931990536914431862
+    second: derrota_Efecto-fondo_75
+  - first:
+      213: 3690467444355491423
+    second: derrota_Efecto-fondo_76
+  - first:
+      213: 188183849573236866
+    second: derrota_Efecto-fondo_77
+  - first:
+      213: 5562875098254741187
+    second: derrota_Efecto-fondo_78
+  - first:
+      213: 9134752911923378078
+    second: derrota_Efecto-fondo_79
+  - first:
+      213: 208617440867667124
+    second: derrota_Efecto-fondo_80
+  - first:
+      213: 3298731870775709518
+    second: derrota_Efecto-fondo_81
+  - first:
+      213: 4756395216835460451
+    second: derrota_Efecto-fondo_82
+  - first:
+      213: 3797083827109863776
+    second: derrota_Efecto-fondo_83
+  - first:
+      213: -796921793191343257
+    second: derrota_Efecto-fondo_84
+  - first:
+      213: 4037866020654671515
+    second: derrota_Efecto-fondo_85
+  - first:
+      213: -3451538722614715755
+    second: derrota_Efecto-fondo_86
+  - first:
+      213: -3805625483670907782
+    second: derrota_Efecto-fondo_87
+  - first:
+      213: -679004224592859355
+    second: derrota_Efecto-fondo_88
+  - first:
+      213: 7894446135355390776
+    second: derrota_Efecto-fondo_89
+  - first:
+      213: -2503766536804910539
+    second: derrota_Efecto-fondo_90
+  - first:
+      213: -3039647553128357501
+    second: derrota_Efecto-fondo_91
+  - first:
+      213: -8800155285094101604
+    second: derrota_Efecto-fondo_92
+  - first:
+      213: -1541194467714031096
+    second: derrota_Efecto-fondo_93
+  - first:
+      213: -5200407369677692355
+    second: derrota_Efecto-fondo_94
+  - first:
+      213: 8284489079335473002
+    second: derrota_Efecto-fondo_95
+  - first:
+      213: 2573757021806181544
+    second: derrota_Efecto-fondo_96
+  - first:
+      213: -3533732076468998189
+    second: derrota_Efecto-fondo_97
+  - first:
+      213: -3734499334303115235
+    second: derrota_Efecto-fondo_98
+  - first:
+      213: -7619402448692066436
+    second: derrota_Efecto-fondo_99
+  - first:
+      213: 397874178404138461
+    second: derrota_Efecto-fondo_100
+  - first:
+      213: -2071607619451115694
+    second: derrota_Efecto-fondo_101
+  - first:
+      213: 1138922601636410276
+    second: derrota_Efecto-fondo_102
+  - first:
+      213: -6085723470676979015
+    second: derrota_Efecto-fondo_103
+  - first:
+      213: 6130651427868495617
+    second: derrota_Efecto-fondo_104
+  - first:
+      213: 1412294719275058241
+    second: derrota_Efecto-fondo_105
+  - first:
+      213: 1372695283269548849
+    second: derrota_Efecto-fondo_106
+  - first:
+      213: -1806002019494414778
+    second: derrota_Efecto-fondo_107
+  - first:
+      213: 4281770767122901623
+    second: derrota_Efecto-fondo_108
+  - first:
+      213: 2126143159060628903
+    second: derrota_Efecto-fondo_109
+  - first:
+      213: 3708491020400417712
+    second: derrota_Efecto-fondo_110
+  - first:
+      213: 7534196929963042099
+    second: derrota_Efecto-fondo_111
+  - first:
+      213: 506573169452371665
+    second: derrota_Efecto-fondo_112
+  - first:
+      213: -8776343101445731902
+    second: derrota_Efecto-fondo_113
+  - first:
+      213: 5851717965469168855
+    second: derrota_Efecto-fondo_114
+  - first:
+      213: 1294436773117405547
+    second: derrota_Efecto-fondo_115
+  - first:
+      213: -6820891804701696286
+    second: derrota_Efecto-fondo_116
+  - first:
+      213: 1672997615609145067
+    second: derrota_Efecto-fondo_117
+  - first:
+      213: -3824224344115215685
+    second: derrota_Efecto-fondo_118
+  - first:
+      213: -8817266942854630606
+    second: derrota_Efecto-fondo_119
+  - first:
+      213: -540117210469807525
+    second: derrota_Efecto-fondo_120
+  - first:
+      213: -5748770673936019503
+    second: derrota_Efecto-fondo_121
+  - first:
+      213: 2299658904734133816
+    second: derrota_Efecto-fondo_122
+  - first:
+      213: 3010213898130874427
+    second: derrota_Efecto-fondo_123
+  - first:
+      213: -508559748106325484
+    second: derrota_Efecto-fondo_124
+  - first:
+      213: -1103700492329973960
+    second: derrota_Efecto-fondo_125
+  - first:
+      213: 5176649300539384828
+    second: derrota_Efecto-fondo_126
+  - first:
+      213: -1978734345268385155
+    second: derrota_Efecto-fondo_127
+  - first:
+      213: -2943365118193726560
+    second: derrota_Efecto-fondo_128
+  - first:
+      213: 2971738397200543869
+    second: derrota_Efecto-fondo_129
+  - first:
+      213: -2917212088779361530
+    second: derrota_Efecto-fondo_130
+  - first:
+      213: 4466266998789051169
+    second: derrota_Efecto-fondo_131
+  - first:
+      213: -2007793915656820415
+    second: derrota_Efecto-fondo_132
+  - first:
+      213: -4204415720069000524
+    second: derrota_Efecto-fondo_133
+  - first:
+      213: 1102715698700661010
+    second: derrota_Efecto-fondo_134
+  - first:
+      213: 2628199287132888904
+    second: derrota_Efecto-fondo_135
+  - first:
+      213: -1272403704857616143
+    second: derrota_Efecto-fondo_136
+  - first:
+      213: -7958776693617263633
+    second: derrota_Efecto-fondo_137
+  - first:
+      213: -7092172059038653374
+    second: derrota_Efecto-fondo_138
+  - first:
+      213: -7045503539190822259
+    second: derrota_Efecto-fondo_139
+  - first:
+      213: -5745925529568271299
+    second: derrota_Efecto-fondo_140
+  - first:
+      213: 1128513666645618241
+    second: derrota_Efecto-fondo_141
+  - first:
+      213: -5010762228128963840
+    second: derrota_Efecto-fondo_142
+  - first:
+      213: 423310521015278141
+    second: derrota_Efecto-fondo_143
+  - first:
+      213: 5123761144515128272
+    second: derrota_Efecto-fondo_144
+  - first:
+      213: -6689983005233938484
+    second: derrota_Efecto-fondo_145
+  - first:
+      213: 7275045153426081530
+    second: derrota_Efecto-fondo_146
+  - first:
+      213: 5553862951871150273
+    second: derrota_Efecto-fondo_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 473
+        width: 1961
+        height: 2545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60ad20e5a61f62c0800000000000000
+      internalID: -4436302206250147733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_1
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2994
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c6df6ef403b580800000000000000
+      internalID: -8812694554989378997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_2
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2997
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad45a444af77d730800000000000000
+      internalID: 4023825135581875631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_3
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2998
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c750844315fb1a0800000000000000
+      internalID: -6791620428062950244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2995
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db16227cadac9a890800000000000000
+      internalID: -7446197467887803971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_5
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3001
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b2e47896b30cb70800000000000000
+      internalID: 8917192586621234012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_6
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2998
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a534b9d91502f36b0800000000000000
+      internalID: -5314493500365257894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 3003
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0471f8d155731c110800000000000000
+      internalID: 1279364607857596224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_8
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3003
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ddd1afbdd4d7c0800000000000000
+      internalID: -4047366349975070654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_9
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2995
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae51a506b93ad00800000000000000
+      internalID: 982799981827451594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_10
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3001
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238bc4b1b4759a6f0800000000000000
+      internalID: -672910689223002062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_11
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2978
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260bbd0158ae6760800000000000000
+      internalID: 7453079499420927523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_12
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2986
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4246c8944c870bd90800000000000000
+      internalID: -7084029429410929628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2987
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ca8c7e6afc22670800000000000000
+      internalID: 8512594561443867725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_14
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2994
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12afc8f6716610070800000000000000
+      internalID: 8070844258066430497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_15
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2990
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46268c380c0f18ef0800000000000000
+      internalID: -107540206444846492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_16
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2988
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4466010cfface30800000000000000
+      internalID: 4524709976021025969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_17
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2991
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35f9c21af6458e30800000000000000
+      internalID: 4505085042125043006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_18
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2993
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd347f3a93925970800000000000000
+      internalID: 8742212117378383318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_19
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2994
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e45d12f64247f50800000000000000
+      internalID: 6878162590629187091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_20
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2983
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1725355f81f96f10800000000000000
+      internalID: 2263605885642549020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2991
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2421455e386274d20800000000000000
+      internalID: 3262618802983277122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_22
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2987
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46b0b050d7beac90800000000000000
+      internalID: -7156580652510300594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_23
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2984
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd72b699d17bc4520800000000000000
+      internalID: 2687724415389214684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_24
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2983
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea1abb5949bf52c0800000000000000
+      internalID: -4440626982841345306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_25
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2981
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7c2b26f9353830800000000000000
+      internalID: 4050207169338702644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_26
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2984
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32834ec9f56bab0800000000000000
+      internalID: -4992698009445194803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_27
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2983
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7719d6a1d1db5430800000000000000
+      internalID: 3772839811230537597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_28
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2980
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e381b028412250480800000000000000
+      internalID: -8933696814343055298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_29
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2979
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d724aa0eb80c13db0800000000000000
+      internalID: -4813854819680107907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_30
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b4aa561153f620800000000000000
+      internalID: 2806676149233824841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_31
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2983
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4027e3c49ba450800000000000000
+      internalID: 6101133689320655647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_32
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2986
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0513d15309ab02dd0800000000000000
+      internalID: -2512803463543574192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_33
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2975
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4124e07a1f00e7cc0800000000000000
+      internalID: -3711528005016862188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_34
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2977
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb120efcede6f60800000000000000
+      internalID: 8029600170048076862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_35
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2973
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be657d4c317b83c0800000000000000
+      internalID: -4356263710739304780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_36
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2977
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fcd17d6745800c0800000000000000
+      internalID: -4609341349221773550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_37
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2976
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f46e19ffb6da80800000000000000
+      internalID: -8442349374781721196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_38
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2974
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3dffd66344bcac0800000000000000
+      internalID: -3833895657211440210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_39
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2963
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21409c415dc8eb5d0800000000000000
+      internalID: -3044841451251235822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_40
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2978
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405a0a7d32f2490800000000000000
+      internalID: -7768951423170706324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_41
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2978
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25bbf20a479c82c0800000000000000
+      internalID: -4427997989478615766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_42
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2978
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5dbb1f312a7160800000000000000
+      internalID: 7023963123769760822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_43
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2977
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c550171e4601c0800000000000000
+      internalID: -4537853713563926231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_44
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2972
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea663768801a7700800000000000000
+      internalID: 538761283457411818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_45
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2975
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ac7ff6fe9261e0800000000000000
+      internalID: -2206026083772620285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_46
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2978
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d110b490fd06ee880800000000000000
+      internalID: -8579813729044332259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_47
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2972
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b55f8c56a03070800000000000000
+      internalID: 8084144247602000259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f02e99200a89faf0800000000000000
+      internalID: -362106561723752203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_49
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2210
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130fbe6457d057ec0800000000000000
+      internalID: -3569932332269047759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2187
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a4cd2a62c371160800000000000000
+      internalID: 6996126682782124652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2141
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34149c54cad3c42a0800000000000000
+      internalID: -6751953931220729533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2107
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d0ebf2e46dfdb20800000000000000
+      internalID: 3161481094734155064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_53
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2075
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097c44e94db1eeda0800000000000000
+      internalID: -5913758660688558192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_54
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2078
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e66497bfb50afac0800000000000000
+      internalID: -3820735012893595928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2041
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05caeaef2ee162290800000000000000
+      internalID: -7915605334772765616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1990
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea1608913c71edb0800000000000000
+      internalID: -4764390378335495447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1969
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c0b29ec59e3d40800000000000000
+      internalID: 5566050903933372833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1923
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8036ce4e9cd119550800000000000000
+      internalID: 6165742117813248776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_59
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1930
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb4d9a62a8dd4540800000000000000
+      internalID: 4993885753908743137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_60
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1908
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2847ccfe606d9660800000000000000
+      internalID: 7394172193015810094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1902
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50af6d6f8a45eca0800000000000000
+      internalID: -5988298149642395555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1895
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35627b5ec808a370800000000000000
+      internalID: 8333920792839611707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_63
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1869
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbe1bcfece9654b0800000000000000
+      internalID: -5451995687045436483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_64
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1869
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fdb7a068f875ec0800000000000000
+      internalID: -3578233573058289872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1860
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f90301951c59a0800000000000000
+      internalID: -6243091270876923994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_66
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1850
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca7c0837e972070800000000000000
+      internalID: 8081602275258641557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_67
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1828
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16517832f1c781b70800000000000000
+      internalID: 8869975939288077665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1799
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558bb7549dc758450800000000000000
+      internalID: 6090411343703947349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_69
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1801
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be36445eb657fdf50800000000000000
+      internalID: 6908369459678045163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1779
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef5415f10b8ec7f0800000000000000
+      internalID: -590381660615974935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_71
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1760
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed933f5989190fd20800000000000000
+      internalID: 3310305810654116318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_72
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1731
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df269515740080980800000000000000
+      internalID: -8572601584392248579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_73
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1691
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4630f8e0a441410800000000000000
+      internalID: 1446862806682133703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_74
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1672
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf836125064349540800000000000000
+      internalID: 5013689873468897532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_75
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1664
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8098dc755f9ccf90800000000000000
+      internalID: -6931990536914431862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1643
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56e3f3769c273330800000000000000
+      internalID: 3690467444355491423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1630
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2804742d6309c9200800000000000000
+      internalID: 188183849573236866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_78
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1616
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce0751bd6d433d40800000000000000
+      internalID: 5562875098254741187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_79
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1620
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97782a106925ce70800000000000000
+      internalID: 9134752911923378078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_80
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1611
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc4ed8057825e200800000000000000
+      internalID: 208617440867667124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_81
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1597
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f88d6b82377cd20800000000000000
+      internalID: 3298731870775709518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1572
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d38decf3c120240800000000000000
+      internalID: 4756395216835460451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_83
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1487
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061a3497f93f1b430800000000000000
+      internalID: 3797083827109863776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_84
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1463
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0013f9d3c0f4f0800000000000000
+      internalID: -796921793191343257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_85
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1463
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96edb390c1690830800000000000000
+      internalID: 4037866020654671515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a5b0e91dba910d0800000000000000
+      internalID: -3451538722614715755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_87
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a741f9129c3bf2bc0800000000000000
+      internalID: -3805625483670907782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_88
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1296
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f27285141b396f0800000000000000
+      internalID: -679004224592859355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_89
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1281
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b305cfee4be8d60800000000000000
+      internalID: 7894446135355390776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_90
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53abb3da995d04dd0800000000000000
+      internalID: -2503766536804910539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_91
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1245
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3812669b7a001d5d0800000000000000
+      internalID: -3039647553128357501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_92
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d80b7b4619fd580800000000000000
+      internalID: -8800155285094101604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_93
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802ab161cc39c9ae0800000000000000
+      internalID: -1541194467714031096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_94
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1139
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32a90bdc0174d7b0800000000000000
+      internalID: -5200407369677692355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_95
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 576
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc46facea68f270800000000000000
+      internalID: 8284489079335473002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_96
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 572
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acbceeff52d7b320800000000000000
+      internalID: 2573757021806181544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_97
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 572
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df69a22669a5fec0800000000000000
+      internalID: -3533732076468998189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_98
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 581
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d181ee444a46c2cc0800000000000000
+      internalID: -3734499334303115235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_99
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 580
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77c7fc97d1724690800000000000000
+      internalID: -7619402448692066436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_100
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 581
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd341d0578858500800000000000000
+      internalID: 397874178404138461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_101
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 576
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257af9098db2043e0800000000000000
+      internalID: -2071607619451115694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_102
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 580
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3b33962144ecf00800000000000000
+      internalID: 1138922601636410276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_103
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 577
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b29a093fba2b8ba0800000000000000
+      internalID: -6085723470676979015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_104
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 580
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc7d7fdf2741550800000000000000
+      internalID: 6130651427868495617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_105
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 581
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144cc84809a799310800000000000000
+      internalID: 1412294719275058241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_106
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 579
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bb228561bcc0310800000000000000
+      internalID: 1372695283269548849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_107
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 579
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646b56c5bbacfe6e0800000000000000
+      internalID: -1806002019494414778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_108
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 575
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a2300b3d7eb6b30800000000000000
+      internalID: 4281770767122901623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_109
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 579
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a58f6930f3918d10800000000000000
+      internalID: 2126143159060628903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_110
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 581
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb51b34fe4377330800000000000000
+      internalID: 3708491020400417712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_111
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 572
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335294e9038de8860800000000000000
+      internalID: 7534196929963042099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_112
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 578
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dec3f91d95b70700800000000000000
+      internalID: 506573169452371665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_113
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 579
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c98063c27a243680800000000000000
+      internalID: -8776343101445731902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_114
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4bf816c7a753150800000000000000
+      internalID: 5851717965469168855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_115
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 579
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69addd0363c6f110800000000000000
+      internalID: 1294436773117405547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_116
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 580
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eed161da035751a0800000000000000
+      internalID: -6820891804701696286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_117
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 582
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6657ca77ea73710800000000000000
+      internalID: 1672997615609145067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_118
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 573
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb28c9b7830adeac0800000000000000
+      internalID: -3824224344115215685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_119
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 581
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233fa5d6e66c2a580800000000000000
+      internalID: -8817266942854630606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_120
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 578
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a4fdc324e1188f0800000000000000
+      internalID: -540117210469807525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_121
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 575
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df4cd4c7834830b0800000000000000
+      internalID: -5748770673936019503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_122
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 570
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eed39f6970aef10800000000000000
+      internalID: 2299658904734133816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_123
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 565
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e800779d66c920800000000000000
+      internalID: 3010213898130874427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_124
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 570
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4127f038a9b31f8f0800000000000000
+      internalID: -508559748106325484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_125
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 569
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8378f38ff3edea0f0800000000000000
+      internalID: -1103700492329973960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_126
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 567
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3ac6d9c1727d740800000000000000
+      internalID: 5176649300539384828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_127
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 566
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa965c89f1a84e0800000000000000
+      internalID: -1978734345268385155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_128
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 565
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab89c505011727d0800000000000000
+      internalID: -2943365118193726560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_129
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 568
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70f68ac35cbd3920800000000000000
+      internalID: 2971738397200543869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_130
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 570
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b4d1bf0bf387d0800000000000000
+      internalID: -2917212088779361530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_131
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 560
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1231fde0c2e5bfd30800000000000000
+      internalID: 4466266998789051169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_132
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a51b4212e224e0800000000000000
+      internalID: -2007793915656820415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_133
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 567
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b21835bd2ae6a5c0800000000000000
+      internalID: -4204415720069000524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_134
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211bc45e512ad4f00800000000000000
+      internalID: 1102715698700661010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_135
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 571
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f9d7ca35d397420800000000000000
+      internalID: 2628199287132888904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_136
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 558
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f022196293875ee0800000000000000
+      internalID: -1272403704857616143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_137
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 558
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febf84ab3cebc8190800000000000000
+      internalID: -7958776693617263633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_138
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 564
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244ec07961b839d90800000000000000
+      internalID: -7092172059038653374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_139
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 558
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a06ca1cd7593e90800000000000000
+      internalID: -7045503539190822259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_140
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 562
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d342c309c2f5240b0800000000000000
+      internalID: -5745925529568271299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_141
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 558
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ee590633949af00800000000000000
+      internalID: 1128513666645618241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_142
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 558
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003ad6a3d42367ab0800000000000000
+      internalID: -5010762228128963840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_143
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 558
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1dc21da6efd500800000000000000
+      internalID: 423310521015278141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_144
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 560
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbe5c43d914b1740800000000000000
+      internalID: 5123761144515128272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_145
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 556
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf71abd6e76823a0800000000000000
+      internalID: -6689983005233938484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_146
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af683eea50726f460800000000000000
+      internalID: 7275045153426081530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_Efecto-fondo_147
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 551
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87b79dde8431d40800000000000000
+      internalID: 5553862951871150273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      derrota_Efecto-fondo_0: -4436302206250147733
+      derrota_Efecto-fondo_1: -8812694554989378997
+      derrota_Efecto-fondo_10: -672910689223002062
+      derrota_Efecto-fondo_100: 397874178404138461
+      derrota_Efecto-fondo_101: -2071607619451115694
+      derrota_Efecto-fondo_102: 1138922601636410276
+      derrota_Efecto-fondo_103: -6085723470676979015
+      derrota_Efecto-fondo_104: 6130651427868495617
+      derrota_Efecto-fondo_105: 1412294719275058241
+      derrota_Efecto-fondo_106: 1372695283269548849
+      derrota_Efecto-fondo_107: -1806002019494414778
+      derrota_Efecto-fondo_108: 4281770767122901623
+      derrota_Efecto-fondo_109: 2126143159060628903
+      derrota_Efecto-fondo_11: 7453079499420927523
+      derrota_Efecto-fondo_110: 3708491020400417712
+      derrota_Efecto-fondo_111: 7534196929963042099
+      derrota_Efecto-fondo_112: 506573169452371665
+      derrota_Efecto-fondo_113: -8776343101445731902
+      derrota_Efecto-fondo_114: 5851717965469168855
+      derrota_Efecto-fondo_115: 1294436773117405547
+      derrota_Efecto-fondo_116: -6820891804701696286
+      derrota_Efecto-fondo_117: 1672997615609145067
+      derrota_Efecto-fondo_118: -3824224344115215685
+      derrota_Efecto-fondo_119: -8817266942854630606
+      derrota_Efecto-fondo_12: -7084029429410929628
+      derrota_Efecto-fondo_120: -540117210469807525
+      derrota_Efecto-fondo_121: -5748770673936019503
+      derrota_Efecto-fondo_122: 2299658904734133816
+      derrota_Efecto-fondo_123: 3010213898130874427
+      derrota_Efecto-fondo_124: -508559748106325484
+      derrota_Efecto-fondo_125: -1103700492329973960
+      derrota_Efecto-fondo_126: 5176649300539384828
+      derrota_Efecto-fondo_127: -1978734345268385155
+      derrota_Efecto-fondo_128: -2943365118193726560
+      derrota_Efecto-fondo_129: 2971738397200543869
+      derrota_Efecto-fondo_13: 8512594561443867725
+      derrota_Efecto-fondo_130: -2917212088779361530
+      derrota_Efecto-fondo_131: 4466266998789051169
+      derrota_Efecto-fondo_132: -2007793915656820415
+      derrota_Efecto-fondo_133: -4204415720069000524
+      derrota_Efecto-fondo_134: 1102715698700661010
+      derrota_Efecto-fondo_135: 2628199287132888904
+      derrota_Efecto-fondo_136: -1272403704857616143
+      derrota_Efecto-fondo_137: -7958776693617263633
+      derrota_Efecto-fondo_138: -7092172059038653374
+      derrota_Efecto-fondo_139: -7045503539190822259
+      derrota_Efecto-fondo_14: 8070844258066430497
+      derrota_Efecto-fondo_140: -5745925529568271299
+      derrota_Efecto-fondo_141: 1128513666645618241
+      derrota_Efecto-fondo_142: -5010762228128963840
+      derrota_Efecto-fondo_143: 423310521015278141
+      derrota_Efecto-fondo_144: 5123761144515128272
+      derrota_Efecto-fondo_145: -6689983005233938484
+      derrota_Efecto-fondo_146: 7275045153426081530
+      derrota_Efecto-fondo_147: 5553862951871150273
+      derrota_Efecto-fondo_15: -107540206444846492
+      derrota_Efecto-fondo_16: 4524709976021025969
+      derrota_Efecto-fondo_17: 4505085042125043006
+      derrota_Efecto-fondo_18: 8742212117378383318
+      derrota_Efecto-fondo_19: 6878162590629187091
+      derrota_Efecto-fondo_2: 4023825135581875631
+      derrota_Efecto-fondo_20: 2263605885642549020
+      derrota_Efecto-fondo_21: 3262618802983277122
+      derrota_Efecto-fondo_22: -7156580652510300594
+      derrota_Efecto-fondo_23: 2687724415389214684
+      derrota_Efecto-fondo_24: -4440626982841345306
+      derrota_Efecto-fondo_25: 4050207169338702644
+      derrota_Efecto-fondo_26: -4992698009445194803
+      derrota_Efecto-fondo_27: 3772839811230537597
+      derrota_Efecto-fondo_28: -8933696814343055298
+      derrota_Efecto-fondo_29: -4813854819680107907
+      derrota_Efecto-fondo_3: -6791620428062950244
+      derrota_Efecto-fondo_30: 2806676149233824841
+      derrota_Efecto-fondo_31: 6101133689320655647
+      derrota_Efecto-fondo_32: -2512803463543574192
+      derrota_Efecto-fondo_33: -3711528005016862188
+      derrota_Efecto-fondo_34: 8029600170048076862
+      derrota_Efecto-fondo_35: -4356263710739304780
+      derrota_Efecto-fondo_36: -4609341349221773550
+      derrota_Efecto-fondo_37: -8442349374781721196
+      derrota_Efecto-fondo_38: -3833895657211440210
+      derrota_Efecto-fondo_39: -3044841451251235822
+      derrota_Efecto-fondo_4: -7446197467887803971
+      derrota_Efecto-fondo_40: -7768951423170706324
+      derrota_Efecto-fondo_41: -4427997989478615766
+      derrota_Efecto-fondo_42: 7023963123769760822
+      derrota_Efecto-fondo_43: -4537853713563926231
+      derrota_Efecto-fondo_44: 538761283457411818
+      derrota_Efecto-fondo_45: -2206026083772620285
+      derrota_Efecto-fondo_46: -8579813729044332259
+      derrota_Efecto-fondo_47: 8084144247602000259
+      derrota_Efecto-fondo_48: -362106561723752203
+      derrota_Efecto-fondo_49: -3569932332269047759
+      derrota_Efecto-fondo_5: 8917192586621234012
+      derrota_Efecto-fondo_50: 6996126682782124652
+      derrota_Efecto-fondo_51: -6751953931220729533
+      derrota_Efecto-fondo_52: 3161481094734155064
+      derrota_Efecto-fondo_53: -5913758660688558192
+      derrota_Efecto-fondo_54: -3820735012893595928
+      derrota_Efecto-fondo_55: -7915605334772765616
+      derrota_Efecto-fondo_56: -4764390378335495447
+      derrota_Efecto-fondo_57: 5566050903933372833
+      derrota_Efecto-fondo_58: 6165742117813248776
+      derrota_Efecto-fondo_59: 4993885753908743137
+      derrota_Efecto-fondo_6: -5314493500365257894
+      derrota_Efecto-fondo_60: 7394172193015810094
+      derrota_Efecto-fondo_61: -5988298149642395555
+      derrota_Efecto-fondo_62: 8333920792839611707
+      derrota_Efecto-fondo_63: -5451995687045436483
+      derrota_Efecto-fondo_64: -3578233573058289872
+      derrota_Efecto-fondo_65: -6243091270876923994
+      derrota_Efecto-fondo_66: 8081602275258641557
+      derrota_Efecto-fondo_67: 8869975939288077665
+      derrota_Efecto-fondo_68: 6090411343703947349
+      derrota_Efecto-fondo_69: 6908369459678045163
+      derrota_Efecto-fondo_7: 1279364607857596224
+      derrota_Efecto-fondo_70: -590381660615974935
+      derrota_Efecto-fondo_71: 3310305810654116318
+      derrota_Efecto-fondo_72: -8572601584392248579
+      derrota_Efecto-fondo_73: 1446862806682133703
+      derrota_Efecto-fondo_74: 5013689873468897532
+      derrota_Efecto-fondo_75: -6931990536914431862
+      derrota_Efecto-fondo_76: 3690467444355491423
+      derrota_Efecto-fondo_77: 188183849573236866
+      derrota_Efecto-fondo_78: 5562875098254741187
+      derrota_Efecto-fondo_79: 9134752911923378078
+      derrota_Efecto-fondo_8: -4047366349975070654
+      derrota_Efecto-fondo_80: 208617440867667124
+      derrota_Efecto-fondo_81: 3298731870775709518
+      derrota_Efecto-fondo_82: 4756395216835460451
+      derrota_Efecto-fondo_83: 3797083827109863776
+      derrota_Efecto-fondo_84: -796921793191343257
+      derrota_Efecto-fondo_85: 4037866020654671515
+      derrota_Efecto-fondo_86: -3451538722614715755
+      derrota_Efecto-fondo_87: -3805625483670907782
+      derrota_Efecto-fondo_88: -679004224592859355
+      derrota_Efecto-fondo_89: 7894446135355390776
+      derrota_Efecto-fondo_9: 982799981827451594
+      derrota_Efecto-fondo_90: -2503766536804910539
+      derrota_Efecto-fondo_91: -3039647553128357501
+      derrota_Efecto-fondo_92: -8800155285094101604
+      derrota_Efecto-fondo_93: -1541194467714031096
+      derrota_Efecto-fondo_94: -5200407369677692355
+      derrota_Efecto-fondo_95: 8284489079335473002
+      derrota_Efecto-fondo_96: 2573757021806181544
+      derrota_Efecto-fondo_97: -3533732076468998189
+      derrota_Efecto-fondo_98: -3734499334303115235
+      derrota_Efecto-fondo_99: -7619402448692066436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

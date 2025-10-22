@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 8b39c57b97666ea4b973697850e86377
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7576048367840990475
+    second: puntos_efecto_0
+  - first:
+      213: 6222838704692614464
+    second: puntos_efecto_1
+  - first:
+      213: -965102635441072123
+    second: puntos_efecto_2
+  - first:
+      213: 8070131977896156497
+    second: puntos_efecto_3
+  - first:
+      213: -6648612102635504536
+    second: puntos_efecto_4
+  - first:
+      213: 1248554189980804584
+    second: puntos_efecto_5
+  - first:
+      213: 1933207414401676407
+    second: puntos_efecto_6
+  - first:
+      213: 3818424108141103455
+    second: puntos_efecto_7
+  - first:
+      213: -7578522117688958822
+    second: puntos_efecto_8
+  - first:
+      213: -5982676068779932037
+    second: puntos_efecto_9
+  - first:
+      213: 5646354483957119909
+    second: puntos_efecto_10
+  - first:
+      213: -7701472815196184552
+    second: puntos_efecto_11
+  - first:
+      213: -3787655824626408924
+    second: puntos_efecto_12
+  - first:
+      213: 2027338437649449433
+    second: puntos_efecto_13
+  - first:
+      213: -1663476050382972621
+    second: puntos_efecto_14
+  - first:
+      213: -2603249247311095472
+    second: puntos_efecto_15
+  - first:
+      213: -3555106788328376666
+    second: puntos_efecto_16
+  - first:
+      213: 2230109288602867520
+    second: puntos_efecto_17
+  - first:
+      213: 7379413974737689247
+    second: puntos_efecto_18
+  - first:
+      213: 8002408506961940466
+    second: puntos_efecto_19
+  - first:
+      213: -199929011786295198
+    second: puntos_efecto_20
+  - first:
+      213: -2258937471455615822
+    second: puntos_efecto_21
+  - first:
+      213: -6384572923028757210
+    second: puntos_efecto_22
+  - first:
+      213: 7981604227026071830
+    second: puntos_efecto_23
+  - first:
+      213: -4913917664385262004
+    second: puntos_efecto_24
+  - first:
+      213: 7446912267132106361
+    second: puntos_efecto_25
+  - first:
+      213: -2308900182199138889
+    second: puntos_efecto_26
+  - first:
+      213: -4823443747077920317
+    second: puntos_efecto_27
+  - first:
+      213: 1441108813289886038
+    second: puntos_efecto_28
+  - first:
+      213: 8301511917588439497
+    second: puntos_efecto_29
+  - first:
+      213: 2665341959452551461
+    second: puntos_efecto_30
+  - first:
+      213: 6878224789288682003
+    second: puntos_efecto_31
+  - first:
+      213: -3913165033375883653
+    second: puntos_efecto_32
+  - first:
+      213: -6996479817292014301
+    second: puntos_efecto_33
+  - first:
+      213: 7211265104345223341
+    second: puntos_efecto_34
+  - first:
+      213: -5691877832342915038
+    second: puntos_efecto_35
+  - first:
+      213: -2914509967244883260
+    second: puntos_efecto_36
+  - first:
+      213: 2330161626802013166
+    second: puntos_efecto_37
+  - first:
+      213: 430547208189534194
+    second: puntos_efecto_38
+  - first:
+      213: -3080164686536350016
+    second: puntos_efecto_39
+  - first:
+      213: 1014015785232632967
+    second: puntos_efecto_40
+  - first:
+      213: -7343632068871509142
+    second: puntos_efecto_41
+  - first:
+      213: -8981884433244867637
+    second: puntos_efecto_42
+  - first:
+      213: 3465265367509194223
+    second: puntos_efecto_43
+  - first:
+      213: -1622415371517626897
+    second: puntos_efecto_44
+  - first:
+      213: -8990452081133585412
+    second: puntos_efecto_45
+  - first:
+      213: -7212416893598342571
+    second: puntos_efecto_46
+  - first:
+      213: 7203401457167515969
+    second: puntos_efecto_47
+  - first:
+      213: 4297481447969722549
+    second: puntos_efecto_48
+  - first:
+      213: 4016091499228448507
+    second: puntos_efecto_49
+  - first:
+      213: 1219139415217414257
+    second: puntos_efecto_50
+  - first:
+      213: -3229348327487109391
+    second: puntos_efecto_51
+  - first:
+      213: 3380661838910737517
+    second: puntos_efecto_52
+  - first:
+      213: 6110624787245009765
+    second: puntos_efecto_53
+  - first:
+      213: -6388488551320391845
+    second: puntos_efecto_54
+  - first:
+      213: -8842754137522781854
+    second: puntos_efecto_55
+  - first:
+      213: -2809943785932606256
+    second: puntos_efecto_56
+  - first:
+      213: -4995393120503630192
+    second: puntos_efecto_57
+  - first:
+      213: 2084941457991055693
+    second: puntos_efecto_58
+  - first:
+      213: 3506492261299583760
+    second: puntos_efecto_59
+  - first:
+      213: 3480751711631082779
+    second: puntos_efecto_60
+  - first:
+      213: -3801003592413375632
+    second: puntos_efecto_61
+  - first:
+      213: -8150708576774733005
+    second: puntos_efecto_62
+  - first:
+      213: 5541274820839181985
+    second: puntos_efecto_63
+  - first:
+      213: 3829793346999753928
+    second: puntos_efecto_64
+  - first:
+      213: 2891547118773254360
+    second: puntos_efecto_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puntos_efecto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 2480
+        height: 1308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae8a926287cd690800000000000000
+      internalID: -7576048367840990475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_1
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04551c7f4d6fb5650800000000000000
+      internalID: 6222838704692614464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_2
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508ddb234444b92f0800000000000000
+      internalID: -965102635441072123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2425
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d5509c64edeff60800000000000000
+      internalID: 8070131977896156497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_4
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2426
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c3c0db4826bb3a0800000000000000
+      internalID: -6648612102635504536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_5
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 2430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5a1a0bb61c35110800000000000000
+      internalID: 1248554189980804584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_6
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2429
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774309c96e124da10800000000000000
+      internalID: 1933207414401676407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_7
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2417
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59c987de74cdf430800000000000000
+      internalID: 3818424108141103455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_8
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9065b4694ea3d690800000000000000
+      internalID: -7578522117688958822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_9
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76442220d349fca0800000000000000
+      internalID: -5982676068779932037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_10
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2418
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb23ccc71eb5e40800000000000000
+      internalID: 5646354483957119909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_11
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 2417
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81067ea574fde1590800000000000000
+      internalID: -7701472815196184552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_12
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2418
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42224b9681b8f6bc0800000000000000
+      internalID: -3787655824626408924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_13
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 2418
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d14797519d822c10800000000000000
+      internalID: 2027338437649449433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_14
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 2415
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399d8c78552ae8e0800000000000000
+      internalID: -1663476050382972621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_15
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2416
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05918382a966fdbd0800000000000000
+      internalID: -2603249247311095472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_16
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a67b173639b9aec0800000000000000
+      internalID: -3555106788328376666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_17
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04719751590f2fe10800000000000000
+      internalID: 2230109288602867520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_18
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2418
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a1bc689e1f86660800000000000000
+      internalID: 7379413974737689247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffc70573244e0f60800000000000000
+      internalID: 8002408506961940466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268de208f95b93df0800000000000000
+      internalID: -199929011786295198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1151
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4a11c8654a6a0e0800000000000000
+      internalID: -2258937471455615822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_22
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1151
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6252b40e0c07567a0800000000000000
+      internalID: -6384572923028757210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_23
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61135a191ca54ce60800000000000000
+      internalID: 7981604227026071830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_24
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1156
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e9cc65be14ecbb0800000000000000
+      internalID: -4913917664385262004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_25
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1148
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97678e3604fb85760800000000000000
+      internalID: 7446912267132106361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_26
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1156
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b58f22748325ffd0800000000000000
+      internalID: -2308900182199138889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_27
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9675db77faf0db0800000000000000
+      internalID: -4823443747077920317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_28
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1151
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65114d294d8dff310800000000000000
+      internalID: 1441108813289886038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_29
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1147
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1e7821b15e43370800000000000000
+      internalID: 8301511917588439497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_30
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1155
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529ec1af3623df420800000000000000
+      internalID: 2665341959452551461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_31
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31286d2e00d547f50800000000000000
+      internalID: 6878224789288682003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_32
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e962e8225a1b9c0800000000000000
+      internalID: -3913165033375883653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_33
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1148
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9e14dca287ee90800000000000000
+      internalID: -6996479817292014301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_34
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1152
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0daadc76f831460800000000000000
+      internalID: 7211265104345223341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_35
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228b742b4436201b0800000000000000
+      internalID: -5691877832342915038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_36
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1155
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca880460a49d87d0800000000000000
+      internalID: -2914509967244883260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_37
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1149
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c7c267a5665020800000000000000
+      internalID: 2330161626802013166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_38
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5c2b976c99f500800000000000000
+      internalID: 430547208189534194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_39
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c66c49798e0145d0800000000000000
+      internalID: -3080164686536350016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_40
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1155
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c0e63fbf1821e00800000000000000
+      internalID: 1014015785232632967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_41
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b2fb5aa8d261a90800000000000000
+      internalID: -7343632068871509142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_42
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1152
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc334de22bfe95380800000000000000
+      internalID: -8981884433244867637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_43
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1152
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe559d2fd78171030800000000000000
+      internalID: 3465265367509194223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_44
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1151
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5fe86c0d50c79e0800000000000000
+      internalID: -1622415371517626897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_45
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb7cd5377f7b3380800000000000000
+      internalID: -8990452081133585412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_46
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1152
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5526b0d5c0958eb90800000000000000
+      internalID: -7212416893598342571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_47
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1414005c57f97f360800000000000000
+      internalID: 7203401457167515969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_48
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0111f9b98b3ab30800000000000000
+      internalID: 4297481447969722549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_49
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf64afcb0f50cb730800000000000000
+      internalID: 4016091499228448507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_50
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1152
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17026bfb6d04be010800000000000000
+      internalID: 1219139415217414257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_51
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1151
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f601245ecc0f23d0800000000000000
+      internalID: -3229348327487109391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_52
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c4efde7068aee20800000000000000
+      internalID: 3380661838910737517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_53
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1155
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8f675edc4dc450800000000000000
+      internalID: 6110624787245009765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_54
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1148
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe5ee92878757a0800000000000000
+      internalID: -6388488551320391845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_55
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1148
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261c6dc76f9384580800000000000000
+      internalID: -8842754137522781854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_56
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1152
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4bba0b3031109d0800000000000000
+      internalID: -2809943785932606256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_57
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09673f27c6cccaab0800000000000000
+      internalID: -4995393120503630192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_58
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1148
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ba05a5333fec10800000000000000
+      internalID: 2084941457991055693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_59
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1149
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bfa6a222099a030800000000000000
+      internalID: 3506492261299583760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_60
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1155
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b158a1b6d3d1e4030800000000000000
+      internalID: 3480751711631082779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_61
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1152
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073973c0f5f104bc0800000000000000
+      internalID: -3801003592413375632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_62
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1147
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333cc95dbbdd2ee80800000000000000
+      internalID: -8150708576774733005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_63
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1148
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae8fe2371096ec40800000000000000
+      internalID: 5541274820839181985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_64
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1144
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc131b02c8262530800000000000000
+      internalID: 3829793346999753928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntos_efecto_65
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b8c1d8c6d02820800000000000000
+      internalID: 2891547118773254360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      puntos_efecto_0: -7576048367840990475
+      puntos_efecto_1: 6222838704692614464
+      puntos_efecto_10: 5646354483957119909
+      puntos_efecto_11: -7701472815196184552
+      puntos_efecto_12: -3787655824626408924
+      puntos_efecto_13: 2027338437649449433
+      puntos_efecto_14: -1663476050382972621
+      puntos_efecto_15: -2603249247311095472
+      puntos_efecto_16: -3555106788328376666
+      puntos_efecto_17: 2230109288602867520
+      puntos_efecto_18: 7379413974737689247
+      puntos_efecto_19: 8002408506961940466
+      puntos_efecto_2: -965102635441072123
+      puntos_efecto_20: -199929011786295198
+      puntos_efecto_21: -2258937471455615822
+      puntos_efecto_22: -6384572923028757210
+      puntos_efecto_23: 7981604227026071830
+      puntos_efecto_24: -4913917664385262004
+      puntos_efecto_25: 7446912267132106361
+      puntos_efecto_26: -2308900182199138889
+      puntos_efecto_27: -4823443747077920317
+      puntos_efecto_28: 1441108813289886038
+      puntos_efecto_29: 8301511917588439497
+      puntos_efecto_3: 8070131977896156497
+      puntos_efecto_30: 2665341959452551461
+      puntos_efecto_31: 6878224789288682003
+      puntos_efecto_32: -3913165033375883653
+      puntos_efecto_33: -6996479817292014301
+      puntos_efecto_34: 7211265104345223341
+      puntos_efecto_35: -5691877832342915038
+      puntos_efecto_36: -2914509967244883260
+      puntos_efecto_37: 2330161626802013166
+      puntos_efecto_38: 430547208189534194
+      puntos_efecto_39: -3080164686536350016
+      puntos_efecto_4: -6648612102635504536
+      puntos_efecto_40: 1014015785232632967
+      puntos_efecto_41: -7343632068871509142
+      puntos_efecto_42: -8981884433244867637
+      puntos_efecto_43: 3465265367509194223
+      puntos_efecto_44: -1622415371517626897
+      puntos_efecto_45: -8990452081133585412
+      puntos_efecto_46: -7212416893598342571
+      puntos_efecto_47: 7203401457167515969
+      puntos_efecto_48: 4297481447969722549
+      puntos_efecto_49: 4016091499228448507
+      puntos_efecto_5: 1248554189980804584
+      puntos_efecto_50: 1219139415217414257
+      puntos_efecto_51: -3229348327487109391
+      puntos_efecto_52: 3380661838910737517
+      puntos_efecto_53: 6110624787245009765
+      puntos_efecto_54: -6388488551320391845
+      puntos_efecto_55: -8842754137522781854
+      puntos_efecto_56: -2809943785932606256
+      puntos_efecto_57: -4995393120503630192
+      puntos_efecto_58: 2084941457991055693
+      puntos_efecto_59: 3506492261299583760
+      puntos_efecto_6: 1933207414401676407
+      puntos_efecto_60: 3480751711631082779
+      puntos_efecto_61: -3801003592413375632
+      puntos_efecto_62: -8150708576774733005
+      puntos_efecto_63: 5541274820839181985
+      puntos_efecto_64: 3829793346999753928
+      puntos_efecto_65: 2891547118773254360
+      puntos_efecto_7: 3818424108141103455
+      puntos_efecto_8: -7578522117688958822
+      puntos_efecto_9: -5982676068779932037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

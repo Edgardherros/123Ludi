@@ -1,0 +1,2535 @@
+fileFormatVersion: 2
+guid: 66044737f3ad89d4da3c1fde52f8729d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7454621842310896042
+    second: ayuda_efecto_0
+  - first:
+      213: 6878903492511717364
+    second: ayuda_efecto_1
+  - first:
+      213: 3603310692438281642
+    second: ayuda_efecto_2
+  - first:
+      213: -708883483551962058
+    second: ayuda_efecto_3
+  - first:
+      213: 7546593175432633892
+    second: ayuda_efecto_4
+  - first:
+      213: 5163229794213034447
+    second: ayuda_efecto_5
+  - first:
+      213: -869125932892145762
+    second: ayuda_efecto_6
+  - first:
+      213: 53980867695666971
+    second: ayuda_efecto_7
+  - first:
+      213: 6391163319970465279
+    second: ayuda_efecto_8
+  - first:
+      213: -1834037943984866993
+    second: ayuda_efecto_9
+  - first:
+      213: -4614389013408571258
+    second: ayuda_efecto_10
+  - first:
+      213: 6250269954364528682
+    second: ayuda_efecto_11
+  - first:
+      213: 5092821047529164529
+    second: ayuda_efecto_12
+  - first:
+      213: -5397158055480892275
+    second: ayuda_efecto_13
+  - first:
+      213: 5438390072092664390
+    second: ayuda_efecto_14
+  - first:
+      213: 56171483692460597
+    second: ayuda_efecto_15
+  - first:
+      213: 3426277958979955514
+    second: ayuda_efecto_16
+  - first:
+      213: 8465565148754449626
+    second: ayuda_efecto_17
+  - first:
+      213: 2234032529358852780
+    second: ayuda_efecto_18
+  - first:
+      213: -1891281729684637337
+    second: ayuda_efecto_19
+  - first:
+      213: -274766376055863366
+    second: ayuda_efecto_20
+  - first:
+      213: 6111592126156422682
+    second: ayuda_efecto_21
+  - first:
+      213: -268931465119812764
+    second: ayuda_efecto_22
+  - first:
+      213: -1888600567619639066
+    second: ayuda_efecto_23
+  - first:
+      213: 8057018248459337937
+    second: ayuda_efecto_24
+  - first:
+      213: 840801003864371678
+    second: ayuda_efecto_25
+  - first:
+      213: -2110642796368172932
+    second: ayuda_efecto_26
+  - first:
+      213: -3438110448649312332
+    second: ayuda_efecto_27
+  - first:
+      213: -6425588271207735376
+    second: ayuda_efecto_28
+  - first:
+      213: -3861675562721581658
+    second: ayuda_efecto_29
+  - first:
+      213: -5807463063408103505
+    second: ayuda_efecto_30
+  - first:
+      213: 8253646735645529902
+    second: ayuda_efecto_31
+  - first:
+      213: -3875263380164042151
+    second: ayuda_efecto_32
+  - first:
+      213: -5795961224622947645
+    second: ayuda_efecto_33
+  - first:
+      213: 3058229685763542001
+    second: ayuda_efecto_34
+  - first:
+      213: -9080239294509061115
+    second: ayuda_efecto_35
+  - first:
+      213: 3222684118739817360
+    second: ayuda_efecto_36
+  - first:
+      213: -7071331251234180905
+    second: ayuda_efecto_37
+  - first:
+      213: -6627508699781172959
+    second: ayuda_efecto_38
+  - first:
+      213: -5673827475640888704
+    second: ayuda_efecto_39
+  - first:
+      213: -5027392922966085486
+    second: ayuda_efecto_40
+  - first:
+      213: -4727095722425414060
+    second: ayuda_efecto_41
+  - first:
+      213: -8065295951938067036
+    second: ayuda_efecto_42
+  - first:
+      213: 2887167307341929871
+    second: ayuda_efecto_43
+  - first:
+      213: 9043345555884595550
+    second: ayuda_efecto_44
+  - first:
+      213: 5591600179113424406
+    second: ayuda_efecto_45
+  - first:
+      213: 5800041887246611605
+    second: ayuda_efecto_46
+  - first:
+      213: -3185690219573168972
+    second: ayuda_efecto_47
+  - first:
+      213: 431959229454043053
+    second: ayuda_efecto_48
+  - first:
+      213: -1112437114751781908
+    second: ayuda_efecto_49
+  - first:
+      213: 5900036416135424882
+    second: ayuda_efecto_50
+  - first:
+      213: 7577176487155149130
+    second: ayuda_efecto_51
+  - first:
+      213: 1146233065389737142
+    second: ayuda_efecto_52
+  - first:
+      213: -7414034678627001552
+    second: ayuda_efecto_53
+  - first:
+      213: 4146298713619256732
+    second: ayuda_efecto_54
+  - first:
+      213: 3688966185388910180
+    second: ayuda_efecto_55
+  - first:
+      213: 4531631152297729705
+    second: ayuda_efecto_56
+  - first:
+      213: 4358053179919036394
+    second: ayuda_efecto_57
+  - first:
+      213: 8111289635714416687
+    second: ayuda_efecto_58
+  - first:
+      213: -8738672848074275846
+    second: ayuda_efecto_59
+  - first:
+      213: 8488523037847726738
+    second: ayuda_efecto_60
+  - first:
+      213: -3254677472438032295
+    second: ayuda_efecto_61
+  - first:
+      213: -663932958050644426
+    second: ayuda_efecto_62
+  - first:
+      213: -8974302132895946719
+    second: ayuda_efecto_63
+  - first:
+      213: -380837954974352190
+    second: ayuda_efecto_64
+  - first:
+      213: 643529205172250009
+    second: ayuda_efecto_65
+  - first:
+      213: -5492364289680748286
+    second: ayuda_efecto_66
+  - first:
+      213: 4676169682734052749
+    second: ayuda_efecto_67
+  - first:
+      213: 6771290493877793982
+    second: ayuda_efecto_68
+  - first:
+      213: -1126161481879016183
+    second: ayuda_efecto_69
+  - first:
+      213: 1162214280091053393
+    second: ayuda_efecto_70
+  - first:
+      213: 1784240567316271049
+    second: ayuda_efecto_71
+  - first:
+      213: 4847751826265815871
+    second: ayuda_efecto_72
+  - first:
+      213: -4364060555445491228
+    second: ayuda_efecto_73
+  - first:
+      213: 2273825879804252930
+    second: ayuda_efecto_74
+  - first:
+      213: -6639615164135812046
+    second: ayuda_efecto_75
+  - first:
+      213: 4441707700216442653
+    second: ayuda_efecto_76
+  - first:
+      213: 1803084749643951060
+    second: ayuda_efecto_77
+  - first:
+      213: 2783163347106618274
+    second: ayuda_efecto_78
+  - first:
+      213: -545320043399769474
+    second: ayuda_efecto_79
+  - first:
+      213: 3155957985270633978
+    second: ayuda_efecto_80
+  - first:
+      213: 6359107242670351148
+    second: ayuda_efecto_81
+  - first:
+      213: 2984705407101928960
+    second: ayuda_efecto_82
+  - first:
+      213: 4154886799377755913
+    second: ayuda_efecto_83
+  - first:
+      213: 604253352796599283
+    second: ayuda_efecto_84
+  - first:
+      213: -8786879719996623000
+    second: ayuda_efecto_85
+  - first:
+      213: 9137025843898503803
+    second: ayuda_efecto_86
+  - first:
+      213: 6278677304817896510
+    second: ayuda_efecto_87
+  - first:
+      213: 7799722328036606989
+    second: ayuda_efecto_88
+  - first:
+      213: 4759678205757990286
+    second: ayuda_efecto_89
+  - first:
+      213: -1866174918465700840
+    second: ayuda_efecto_90
+  - first:
+      213: -8914306934566613756
+    second: ayuda_efecto_91
+  - first:
+      213: -6967959674201137707
+    second: ayuda_efecto_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ayuda_efecto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 2480
+        height: 1424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa91fcdb113247760800000000000000
+      internalID: 7454621842310896042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_1
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2649
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7da5bc746c67f50800000000000000
+      internalID: 6878903492511717364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_2
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2645
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad862ecbf7810230800000000000000
+      internalID: 3603310692438281642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2645
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c6ebf3a3a8926f0800000000000000
+      internalID: -708883483551962058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_4
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2646
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e9c0e6282eab860800000000000000
+      internalID: 7546593175432633892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_5
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2650
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f7c1542a77a740800000000000000
+      internalID: 5163229794213034447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_6
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2649
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9732e0a19e30f3f0800000000000000
+      internalID: -869125932892145762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_7
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2636
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17eaab2057cfb000800000000000000
+      internalID: 53980867695666971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_8
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2637
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5885c7d29f1b850800000000000000
+      internalID: 6391163319970465279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49b13405303c86e0800000000000000
+      internalID: -1834037943984866993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_10
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2637
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6802150f3a566ffb0800000000000000
+      internalID: -4614389013408571258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_11
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2639
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d13c786b6db650800000000000000
+      internalID: 6250269954364528682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_12
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 2641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fecb9282c55da640800000000000000
+      internalID: 5092821047529164529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_13
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2637
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d846c6a08517915b0800000000000000
+      internalID: -5397158055480892275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_14
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 2636
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642281de4fa097b40800000000000000
+      internalID: 5438390072092664390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_15
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 2637
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aeef3baaf87c000800000000000000
+      internalID: 56171483692460597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_16
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2637
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b20c686a59c8f20800000000000000
+      internalID: 3426277958979955514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_17
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2633
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad49f6a76aabb7570800000000000000
+      internalID: 8465565148754449626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_18
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2635
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca21a11cfb0e00f10800000000000000
+      internalID: 2234032529358852780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_19
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2637
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769f5fb8941d0c5e0800000000000000
+      internalID: -1891281729684637337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_20
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab708fecf65df2cf0800000000000000
+      internalID: -274766376055863366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_21
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2637
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb0ab78acb0d450800000000000000
+      internalID: 6111592126156422682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463bb90e140944cf0800000000000000
+      internalID: -268931465119812764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_23
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e82e6c3ac75ac5e0800000000000000
+      internalID: -1888600567619639066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_24
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1255
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d04248b86740df60800000000000000
+      internalID: 8057018248459337937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_25
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1256
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b02aee002bab00800000000000000
+      internalID: 840801003864371678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_26
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78ecb23f8d75b2e0800000000000000
+      internalID: -2110642796368172932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_27
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e2b943c06940d0800000000000000
+      internalID: -3438110448649312332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_28
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1252
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf1fb5f289b3d6a0800000000000000
+      internalID: -6425588271207735376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_29
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1260
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a56c262982986ac0800000000000000
+      internalID: -3861675562721581658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_30
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1251
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafab53fc1fb76fa0800000000000000
+      internalID: -5807463063408103505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_31
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1260
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27d6b3f9f7da8270800000000000000
+      internalID: 8253646735645529902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_32
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1256
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522e3edc7c483ac0800000000000000
+      internalID: -3875263380164042151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_33
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1255
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2496a79fb909fa0800000000000000
+      internalID: -5795961224622947645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_34
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1252
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb8d7d22b3017a20800000000000000
+      internalID: 3058229685763542001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_35
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1259
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c6e3788728cf180800000000000000
+      internalID: -9080239294509061115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_36
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09397c8a12649bc20800000000000000
+      internalID: 3222684118739817360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_37
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1256
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0711941b59ddd90800000000000000
+      internalID: -7071331251234180905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_38
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1217bbb93fb5604a0800000000000000
+      internalID: -6627508699781172959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_39
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1251
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082d29dd8f38241b0800000000000000
+      internalID: -5673827475640888704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_40
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2903b48d5cc1b3ab0800000000000000
+      internalID: -5027392922966085486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_41
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e80955c7bf56eb0800000000000000
+      internalID: -4727095722425414060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_42
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5e5504010521090800000000000000
+      internalID: -8065295951938067036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_43
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d9c318e57411820800000000000000
+      internalID: 2887167307341929871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_44
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1252
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59db9f8eda608d70800000000000000
+      internalID: 9043345555884595550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_45
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1255
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f012ccba599d40800000000000000
+      internalID: 5591600179113424406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_46
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1250
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59478b3dd53ed7050800000000000000
+      internalID: 5800041887246611605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_47
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1259
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4b7e1bf972ac3d0800000000000000
+      internalID: -3185690219573168972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_48
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da74f0d61a0aef500800000000000000
+      internalID: 431959229454043053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_49
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1256
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3724c8654df80f0800000000000000
+      internalID: -1112437114751781908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_50
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bee995cd321e150800000000000000
+      internalID: 5900036416135424882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_51
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1256
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4923559ed9872960800000000000000
+      internalID: 7577176487155149130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_52
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1255
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4cc5466ec38ef00800000000000000
+      internalID: 1146233065389737142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_53
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b9204bdbe0c1990800000000000000
+      internalID: -7414034678627001552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_54
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1256
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955fe546bc9a8930800000000000000
+      internalID: 4146298713619256732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_55
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1259
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466a88c5337d13330800000000000000
+      internalID: 3688966185388910180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_56
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aedccdf58693ee30800000000000000
+      internalID: 4531631152297729705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_57
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefe555f64aea7c30800000000000000
+      internalID: 4358053179919036394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_58
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1256
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c01fb2f6119070800000000000000
+      internalID: 8111289635714416687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_59
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1255
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38e2a185ff9b680800000000000000
+      internalID: -8738672848074275846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_60
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1256
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a22a29aba4dc570800000000000000
+      internalID: 8488523037847726738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_61
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1259
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9586dd4351015d2d0800000000000000
+      internalID: -3254677472438032295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_62
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1251
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e87b80e7c39c6f0800000000000000
+      internalID: -663932958050644426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_63
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1251
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128e4bd02cfd47380800000000000000
+      internalID: -8974302132895946719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_64
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1256
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc74c0d5edf6baf0800000000000000
+      internalID: -380837954974352190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_65
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995a1ec07664ee800800000000000000
+      internalID: 643529205172250009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_66
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1251
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201d98047c337c3b0800000000000000
+      internalID: -5492364289680748286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_67
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1256
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8570d01d8715e040800000000000000
+      internalID: 4676169682734052749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_68
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1252
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b09e04d478fd50800000000000000
+      internalID: 6771290493877793982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_69
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dafd059121f50f0800000000000000
+      internalID: -1126161481879016183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_70
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1259
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15da6b5eab3012010800000000000000
+      internalID: 1162214280091053393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_71
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf4ab8b755e2c810800000000000000
+      internalID: 1784240567316271049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_72
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b33dbf99ca64340800000000000000
+      internalID: 4847751826265815871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9a06eeb0ebf63c0800000000000000
+      internalID: -4364060555445491228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_74
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20392d627904e8f10800000000000000
+      internalID: 2273825879804252930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_75
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1250
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2345368bf295bd3a0800000000000000
+      internalID: -6639615164135812046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_76
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1250
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fa483ce9d14ad30800000000000000
+      internalID: 4441707700216442653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_77
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dba372d608d50910800000000000000
+      internalID: 1803084749643951060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_78
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1252
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab5d208158cf9620800000000000000
+      internalID: 2783163347106618274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_79
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72914c4f42ae68f0800000000000000
+      internalID: -545320043399769474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_80
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af51d1e01173ccb20800000000000000
+      internalID: 3155957985270633978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_81
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23eaff5856104850800000000000000
+      internalID: 6359107242670351148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_82
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1251
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0068f7d01cdcb6920800000000000000
+      internalID: 2984705407101928960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_83
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90feedec78f19a930800000000000000
+      internalID: 4154886799377755913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_84
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3b7cf093db26800800000000000000
+      internalID: 604253352796599283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_85
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1251
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8677485137bbe0680800000000000000
+      internalID: -8786879719996623000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_86
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b725221589c3dce70800000000000000
+      internalID: 9137025843898503803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_87
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c4afc2eb7522750800000000000000
+      internalID: 6278677304817896510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_88
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d040e45f12e2e3c60800000000000000
+      internalID: 7799722328036606989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_89
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85af5b3c16cd0240800000000000000
+      internalID: 4759678205757990286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_90
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cbb109cc30a16e0800000000000000
+      internalID: -1866174918465700840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_91
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d0b52b2150a4480800000000000000
+      internalID: -8914306934566613756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayuda_efecto_92
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd9ef91895dc4f90800000000000000
+      internalID: -6967959674201137707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ayuda_efecto_0: 7454621842310896042
+      ayuda_efecto_1: 6878903492511717364
+      ayuda_efecto_10: -4614389013408571258
+      ayuda_efecto_11: 6250269954364528682
+      ayuda_efecto_12: 5092821047529164529
+      ayuda_efecto_13: -5397158055480892275
+      ayuda_efecto_14: 5438390072092664390
+      ayuda_efecto_15: 56171483692460597
+      ayuda_efecto_16: 3426277958979955514
+      ayuda_efecto_17: 8465565148754449626
+      ayuda_efecto_18: 2234032529358852780
+      ayuda_efecto_19: -1891281729684637337
+      ayuda_efecto_2: 3603310692438281642
+      ayuda_efecto_20: -274766376055863366
+      ayuda_efecto_21: 6111592126156422682
+      ayuda_efecto_22: -268931465119812764
+      ayuda_efecto_23: -1888600567619639066
+      ayuda_efecto_24: 8057018248459337937
+      ayuda_efecto_25: 840801003864371678
+      ayuda_efecto_26: -2110642796368172932
+      ayuda_efecto_27: -3438110448649312332
+      ayuda_efecto_28: -6425588271207735376
+      ayuda_efecto_29: -3861675562721581658
+      ayuda_efecto_3: -708883483551962058
+      ayuda_efecto_30: -5807463063408103505
+      ayuda_efecto_31: 8253646735645529902
+      ayuda_efecto_32: -3875263380164042151
+      ayuda_efecto_33: -5795961224622947645
+      ayuda_efecto_34: 3058229685763542001
+      ayuda_efecto_35: -9080239294509061115
+      ayuda_efecto_36: 3222684118739817360
+      ayuda_efecto_37: -7071331251234180905
+      ayuda_efecto_38: -6627508699781172959
+      ayuda_efecto_39: -5673827475640888704
+      ayuda_efecto_4: 7546593175432633892
+      ayuda_efecto_40: -5027392922966085486
+      ayuda_efecto_41: -4727095722425414060
+      ayuda_efecto_42: -8065295951938067036
+      ayuda_efecto_43: 2887167307341929871
+      ayuda_efecto_44: 9043345555884595550
+      ayuda_efecto_45: 5591600179113424406
+      ayuda_efecto_46: 5800041887246611605
+      ayuda_efecto_47: -3185690219573168972
+      ayuda_efecto_48: 431959229454043053
+      ayuda_efecto_49: -1112437114751781908
+      ayuda_efecto_5: 5163229794213034447
+      ayuda_efecto_50: 5900036416135424882
+      ayuda_efecto_51: 7577176487155149130
+      ayuda_efecto_52: 1146233065389737142
+      ayuda_efecto_53: -7414034678627001552
+      ayuda_efecto_54: 4146298713619256732
+      ayuda_efecto_55: 3688966185388910180
+      ayuda_efecto_56: 4531631152297729705
+      ayuda_efecto_57: 4358053179919036394
+      ayuda_efecto_58: 8111289635714416687
+      ayuda_efecto_59: -8738672848074275846
+      ayuda_efecto_6: -869125932892145762
+      ayuda_efecto_60: 8488523037847726738
+      ayuda_efecto_61: -3254677472438032295
+      ayuda_efecto_62: -663932958050644426
+      ayuda_efecto_63: -8974302132895946719
+      ayuda_efecto_64: -380837954974352190
+      ayuda_efecto_65: 643529205172250009
+      ayuda_efecto_66: -5492364289680748286
+      ayuda_efecto_67: 4676169682734052749
+      ayuda_efecto_68: 6771290493877793982
+      ayuda_efecto_69: -1126161481879016183
+      ayuda_efecto_7: 53980867695666971
+      ayuda_efecto_70: 1162214280091053393
+      ayuda_efecto_71: 1784240567316271049
+      ayuda_efecto_72: 4847751826265815871
+      ayuda_efecto_73: -4364060555445491228
+      ayuda_efecto_74: 2273825879804252930
+      ayuda_efecto_75: -6639615164135812046
+      ayuda_efecto_76: 4441707700216442653
+      ayuda_efecto_77: 1803084749643951060
+      ayuda_efecto_78: 2783163347106618274
+      ayuda_efecto_79: -545320043399769474
+      ayuda_efecto_8: 6391163319970465279
+      ayuda_efecto_80: 3155957985270633978
+      ayuda_efecto_81: 6359107242670351148
+      ayuda_efecto_82: 2984705407101928960
+      ayuda_efecto_83: 4154886799377755913
+      ayuda_efecto_84: 604253352796599283
+      ayuda_efecto_85: -8786879719996623000
+      ayuda_efecto_86: 9137025843898503803
+      ayuda_efecto_87: 6278677304817896510
+      ayuda_efecto_88: 7799722328036606989
+      ayuda_efecto_89: 4759678205757990286
+      ayuda_efecto_9: -1834037943984866993
+      ayuda_efecto_90: -1866174918465700840
+      ayuda_efecto_91: -8914306934566613756
+      ayuda_efecto_92: -6967959674201137707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

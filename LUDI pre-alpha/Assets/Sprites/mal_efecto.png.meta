@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: 90bdee8c5ffc29141abc620d51d6f43c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1370540324371861993
+    second: mal_efecto_0
+  - first:
+      213: -1222386678526811185
+    second: mal_efecto_1
+  - first:
+      213: -6464368222349591907
+    second: mal_efecto_2
+  - first:
+      213: -3444409630933617003
+    second: mal_efecto_3
+  - first:
+      213: -881697829328317853
+    second: mal_efecto_4
+  - first:
+      213: 4596369622244204530
+    second: mal_efecto_5
+  - first:
+      213: -7246117848998253694
+    second: mal_efecto_6
+  - first:
+      213: -3513713331904272680
+    second: mal_efecto_7
+  - first:
+      213: 825681743463868338
+    second: mal_efecto_8
+  - first:
+      213: -1585360798288754682
+    second: mal_efecto_9
+  - first:
+      213: -729990892335070892
+    second: mal_efecto_10
+  - first:
+      213: -2389066294678047177
+    second: mal_efecto_11
+  - first:
+      213: -22498145835678304
+    second: mal_efecto_12
+  - first:
+      213: -7116913546132082817
+    second: mal_efecto_13
+  - first:
+      213: -5027012192834557326
+    second: mal_efecto_14
+  - first:
+      213: 322662030949121396
+    second: mal_efecto_15
+  - first:
+      213: -5068639925127677258
+    second: mal_efecto_16
+  - first:
+      213: 1500723766914931332
+    second: mal_efecto_17
+  - first:
+      213: -1131110197205188073
+    second: mal_efecto_18
+  - first:
+      213: -8615001703343525731
+    second: mal_efecto_19
+  - first:
+      213: 7938967519545909738
+    second: mal_efecto_20
+  - first:
+      213: -2555114171527914347
+    second: mal_efecto_21
+  - first:
+      213: -7747947402700583845
+    second: mal_efecto_22
+  - first:
+      213: 3194945313399061898
+    second: mal_efecto_23
+  - first:
+      213: 1778587807464605457
+    second: mal_efecto_24
+  - first:
+      213: 595964016434890922
+    second: mal_efecto_25
+  - first:
+      213: -2203270091634197614
+    second: mal_efecto_26
+  - first:
+      213: -9065675872205782200
+    second: mal_efecto_27
+  - first:
+      213: -6945748713112363697
+    second: mal_efecto_28
+  - first:
+      213: -7719624322928964979
+    second: mal_efecto_29
+  - first:
+      213: 572717435692892030
+    second: mal_efecto_30
+  - first:
+      213: 8155228461973353970
+    second: mal_efecto_31
+  - first:
+      213: -2796368556486209079
+    second: mal_efecto_32
+  - first:
+      213: 69774608523256869
+    second: mal_efecto_33
+  - first:
+      213: -522399489207726553
+    second: mal_efecto_34
+  - first:
+      213: 7816869307551513448
+    second: mal_efecto_35
+  - first:
+      213: 145944703154318474
+    second: mal_efecto_36
+  - first:
+      213: 1644518105188943162
+    second: mal_efecto_37
+  - first:
+      213: -5956844533628337390
+    second: mal_efecto_38
+  - first:
+      213: -6781289880778576173
+    second: mal_efecto_39
+  - first:
+      213: -6308087269732942437
+    second: mal_efecto_40
+  - first:
+      213: -1975156808613048318
+    second: mal_efecto_41
+  - first:
+      213: 1876037921373561776
+    second: mal_efecto_42
+  - first:
+      213: 8894710336457052085
+    second: mal_efecto_43
+  - first:
+      213: 355226170042290837
+    second: mal_efecto_44
+  - first:
+      213: -2771664187390056045
+    second: mal_efecto_45
+  - first:
+      213: 3360004769670979196
+    second: mal_efecto_46
+  - first:
+      213: 7749359493412936038
+    second: mal_efecto_47
+  - first:
+      213: -4285152147338971568
+    second: mal_efecto_48
+  - first:
+      213: 2584382186217163249
+    second: mal_efecto_49
+  - first:
+      213: 2270704135875786573
+    second: mal_efecto_50
+  - first:
+      213: 6081113442115720274
+    second: mal_efecto_51
+  - first:
+      213: 1033040061867129416
+    second: mal_efecto_52
+  - first:
+      213: 6073966409311330128
+    second: mal_efecto_53
+  - first:
+      213: -7582697081461041743
+    second: mal_efecto_54
+  - first:
+      213: 1637919155872366688
+    second: mal_efecto_55
+  - first:
+      213: 467998678566905750
+    second: mal_efecto_56
+  - first:
+      213: 7471137958151052322
+    second: mal_efecto_57
+  - first:
+      213: 4662408719753536194
+    second: mal_efecto_58
+  - first:
+      213: 242825642019712257
+    second: mal_efecto_59
+  - first:
+      213: 6941588860129704582
+    second: mal_efecto_60
+  - first:
+      213: -7009633679328860705
+    second: mal_efecto_61
+  - first:
+      213: 2634322643834614030
+    second: mal_efecto_62
+  - first:
+      213: 7800666407605868126
+    second: mal_efecto_63
+  - first:
+      213: 6187947116864888670
+    second: mal_efecto_64
+  - first:
+      213: -2523467739140861417
+    second: mal_efecto_65
+  - first:
+      213: 3618321194971334026
+    second: mal_efecto_66
+  - first:
+      213: 4705232181460933234
+    second: mal_efecto_67
+  - first:
+      213: 5006740451151860123
+    second: mal_efecto_68
+  - first:
+      213: 2805125909852529425
+    second: mal_efecto_69
+  - first:
+      213: -4963267144859176666
+    second: mal_efecto_70
+  - first:
+      213: 8755527036693418901
+    second: mal_efecto_71
+  - first:
+      213: 1381856750328453201
+    second: mal_efecto_72
+  - first:
+      213: -2231702568022734792
+    second: mal_efecto_73
+  - first:
+      213: -2462376721192982961
+    second: mal_efecto_74
+  - first:
+      213: -3730436369885306549
+    second: mal_efecto_75
+  - first:
+      213: -4780397808981024670
+    second: mal_efecto_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mal_efecto_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1320
+        width: 2207
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19880e923250310800000000000000
+      internalID: 1370540324371861993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2749
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc36d38dac5390fe0800000000000000
+      internalID: -1222386678526811185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_2
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2752
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a7789f953f946a0800000000000000
+      internalID: -6464368222349591907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_3
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2754
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596744f90bff230d0800000000000000
+      internalID: -3444409630933617003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_4
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2750
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36217a3ee7493c3f0800000000000000
+      internalID: -881697829328317853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_5
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2749
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff134e91d599cf30800000000000000
+      internalID: 4596369622244204530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_6
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2747
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b67d9353e907b90800000000000000
+      internalID: -7246117848998253694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_7
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2750
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6aa415758cc3fc0800000000000000
+      internalID: -3513713331904272680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_8
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2753
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b760b8cb29657b00800000000000000
+      internalID: 825681743463868338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_9
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2747
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6084b29e0caaff9e0800000000000000
+      internalID: -1585360798288754682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_10
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2749
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451091da62d8ed5f0800000000000000
+      internalID: -729990892335070892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_11
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2746
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7363bd0ecd458ded0800000000000000
+      internalID: -2389066294678047177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2738
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a50c593e0210bff0800000000000000
+      internalID: -22498145835678304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2742
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fa1a936d4ab3d90800000000000000
+      internalID: -7116913546132082817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_14
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 2742
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ae98c7b077c3ab0800000000000000
+      internalID: -5027012192834557326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_15
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2741
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d7a3958635a7400800000000000000
+      internalID: 322662030949121396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_16
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2741
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baf668c7d298a9b0800000000000000
+      internalID: -5068639925127677258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_17
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2747
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a53f89054a3d410800000000000000
+      internalID: 1500723766914931332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_18
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2741
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71243cdb44d7d40f0800000000000000
+      internalID: -1131110197205188073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_19
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2733
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90f2d4589d517880800000000000000
+      internalID: -8615001703343525731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_20
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2744
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1e5e585e0ec2e60800000000000000
+      internalID: 7938967519545909738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_21
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2740
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c1385d2396a8cd0800000000000000
+      internalID: -2555114171527914347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_22
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 2743
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c0f9b33e2c97490800000000000000
+      internalID: -7747947402700583845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_23
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2737
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d33f1c5d9b65c20800000000000000
+      internalID: 3194945313399061898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c4c10030dea810800000000000000
+      internalID: 1778587807464605457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2149
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8448a8d1a454800800000000000000
+      internalID: 595964016434890922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2139
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bb6eb66896c61e0800000000000000
+      internalID: -2203270091634197614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_27
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2116
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843485483df303280800000000000000
+      internalID: -9065675872205782200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2102
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d9fc7785ebb9f90800000000000000
+      internalID: -6945748713112363697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2096
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a8a5024926ed490800000000000000
+      internalID: -7719624322928964979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_30
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2093
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fb52f2973b2f700800000000000000
+      internalID: 572717435692892030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2074
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b312f3113d2170800000000000000
+      internalID: 8155228461973353970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_32
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2077
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c151991d9d4139d0800000000000000
+      internalID: -2796368556486209079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2055
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524ee5303a3e7f000800000000000000
+      internalID: 69774608523256869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2041
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e8deeae6010c8f0800000000000000
+      internalID: -522399489207726553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2023
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf24c38391b7c60800000000000000
+      internalID: 7816869307551513448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_36
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2031
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cec5c2fef760200800000000000000
+      internalID: 145944703154318474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2011
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a354c7ee08082d610800000000000000
+      internalID: 1644518105188943162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1956
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2130bd61579055da0800000000000000
+      internalID: -5956844533628337390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_39
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1952
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deed3148c404e1a0800000000000000
+      internalID: -6781289880778576173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1947
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d7763cc0c2578a0800000000000000
+      internalID: -6308087269732942437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1936
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200dceee855d694e0800000000000000
+      internalID: -1975156808613048318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1934
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b322a0cc86090a10800000000000000
+      internalID: 1876037921373561776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_43
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1923
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf8480cceb507b70800000000000000
+      internalID: 8894710336457052085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1914
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5921b40d1540ee400800000000000000
+      internalID: 355226170042290837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1905
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399a1f14b121989d0800000000000000
+      internalID: -2771664187390056045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1897
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e5bd3398221ae20800000000000000
+      internalID: 3360004769670979196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_47
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1891
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669dda1c6614b8b60800000000000000
+      internalID: 7749359493412936038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1884
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056bb5163d41884c0800000000000000
+      internalID: -4285152147338971568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1876
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9425dd7e19dd320800000000000000
+      internalID: 2584382186217163249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1870
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47f2e08169238f10800000000000000
+      internalID: 2270704135875786573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_51
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1871
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254192cd474746450800000000000000
+      internalID: 6081113442115720274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1861
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a76568678165e00800000000000000
+      internalID: 1033040061867129416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1863
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f18ac94401b4450800000000000000
+      internalID: 6073966409311330128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1862
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b59f14ed29d4c690800000000000000
+      internalID: -7582697081461041743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1853
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06084905bce0bb610800000000000000
+      internalID: 1637919155872366688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1791
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697255f815aae7600800000000000000
+      internalID: 467998678566905750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_57
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1774
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd78f9360dea760800000000000000
+      internalID: 7471137958151052322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1731
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2e792370434b040800000000000000
+      internalID: 4662408719753536194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_59
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1389
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10de0f682a0be5300800000000000000
+      internalID: 242825642019712257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_60
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1387
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68af6d84a4a755060800000000000000
+      internalID: 6941588860129704582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_61
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1382
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd52df9ae47c8be90800000000000000
+      internalID: -7009633679328860705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_62
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1381
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01b781cc7efe8420800000000000000
+      internalID: 2634322643834614030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_63
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1383
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569bac94c8814c60800000000000000
+      internalID: 7800666407605868126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_64
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1389
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f52ad1e1100e550800000000000000
+      internalID: 6187947116864888670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_65
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1378
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d95e0677dafcd0800000000000000
+      internalID: -2523467739140861417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_66
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1387
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a858885c4fbd63230800000000000000
+      internalID: 3618321194971334026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_67
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1383
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a17b95db75c4140800000000000000
+      internalID: 4705232181460933234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_68
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1379
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915c79d9e38b7540800000000000000
+      internalID: 5006740451151860123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_69
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1382
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113210f172fcde620800000000000000
+      internalID: 2805125909852529425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_70
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1388
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213d4904deee1bb0800000000000000
+      internalID: -4963267144859176666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_71
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1386
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593907b7371e18970800000000000000
+      internalID: 8755527036693418901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_72
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1388
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1589dcd94675d2310800000000000000
+      internalID: 1381856750328453201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_73
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1379
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8388da4a6566701e0800000000000000
+      internalID: -2231702568022734792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_74
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1375
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e9161b61e3ddd0800000000000000
+      internalID: -2462376721192982961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_75
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1376
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41e9c3e2e3da3cc0800000000000000
+      internalID: -3730436369885306549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mal_efecto_76
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1376
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26061a6358d98adb0800000000000000
+      internalID: -4780397808981024670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mal_efecto_0: 1370540324371861993
+      mal_efecto_1: -1222386678526811185
+      mal_efecto_10: -729990892335070892
+      mal_efecto_11: -2389066294678047177
+      mal_efecto_12: -22498145835678304
+      mal_efecto_13: -7116913546132082817
+      mal_efecto_14: -5027012192834557326
+      mal_efecto_15: 322662030949121396
+      mal_efecto_16: -5068639925127677258
+      mal_efecto_17: 1500723766914931332
+      mal_efecto_18: -1131110197205188073
+      mal_efecto_19: -8615001703343525731
+      mal_efecto_2: -6464368222349591907
+      mal_efecto_20: 7938967519545909738
+      mal_efecto_21: -2555114171527914347
+      mal_efecto_22: -7747947402700583845
+      mal_efecto_23: 3194945313399061898
+      mal_efecto_24: 1778587807464605457
+      mal_efecto_25: 595964016434890922
+      mal_efecto_26: -2203270091634197614
+      mal_efecto_27: -9065675872205782200
+      mal_efecto_28: -6945748713112363697
+      mal_efecto_29: -7719624322928964979
+      mal_efecto_3: -3444409630933617003
+      mal_efecto_30: 572717435692892030
+      mal_efecto_31: 8155228461973353970
+      mal_efecto_32: -2796368556486209079
+      mal_efecto_33: 69774608523256869
+      mal_efecto_34: -522399489207726553
+      mal_efecto_35: 7816869307551513448
+      mal_efecto_36: 145944703154318474
+      mal_efecto_37: 1644518105188943162
+      mal_efecto_38: -5956844533628337390
+      mal_efecto_39: -6781289880778576173
+      mal_efecto_4: -881697829328317853
+      mal_efecto_40: -6308087269732942437
+      mal_efecto_41: -1975156808613048318
+      mal_efecto_42: 1876037921373561776
+      mal_efecto_43: 8894710336457052085
+      mal_efecto_44: 355226170042290837
+      mal_efecto_45: -2771664187390056045
+      mal_efecto_46: 3360004769670979196
+      mal_efecto_47: 7749359493412936038
+      mal_efecto_48: -4285152147338971568
+      mal_efecto_49: 2584382186217163249
+      mal_efecto_5: 4596369622244204530
+      mal_efecto_50: 2270704135875786573
+      mal_efecto_51: 6081113442115720274
+      mal_efecto_52: 1033040061867129416
+      mal_efecto_53: 6073966409311330128
+      mal_efecto_54: -7582697081461041743
+      mal_efecto_55: 1637919155872366688
+      mal_efecto_56: 467998678566905750
+      mal_efecto_57: 7471137958151052322
+      mal_efecto_58: 4662408719753536194
+      mal_efecto_59: 242825642019712257
+      mal_efecto_6: -7246117848998253694
+      mal_efecto_60: 6941588860129704582
+      mal_efecto_61: -7009633679328860705
+      mal_efecto_62: 2634322643834614030
+      mal_efecto_63: 7800666407605868126
+      mal_efecto_64: 6187947116864888670
+      mal_efecto_65: -2523467739140861417
+      mal_efecto_66: 3618321194971334026
+      mal_efecto_67: 4705232181460933234
+      mal_efecto_68: 5006740451151860123
+      mal_efecto_69: 2805125909852529425
+      mal_efecto_7: -3513713331904272680
+      mal_efecto_70: -4963267144859176666
+      mal_efecto_71: 8755527036693418901
+      mal_efecto_72: 1381856750328453201
+      mal_efecto_73: -2231702568022734792
+      mal_efecto_74: -2462376721192982961
+      mal_efecto_75: -3730436369885306549
+      mal_efecto_76: -4780397808981024670
+      mal_efecto_8: 825681743463868338
+      mal_efecto_9: -1585360798288754682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
