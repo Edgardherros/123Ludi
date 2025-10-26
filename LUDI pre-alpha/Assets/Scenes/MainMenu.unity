@@ -1317,11 +1317,11 @@ RectTransform:
   m_Children:
   - {fileID: 1136174799}
   - {fileID: 2006659241}
+  - {fileID: 2146967245}
   - {fileID: 241019633}
   - {fileID: 1143488744}
   - {fileID: 1200418176}
   - {fileID: 674931940}
-  - {fileID: 2146967245}
   m_Father: {fileID: 1887478504}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
