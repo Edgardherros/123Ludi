@@ -13,6 +13,7 @@ public class AnswerManager : MonoBehaviour
     [SerializeField] GameObject question;
     [SerializeField] GameObject towers;
     [SerializeField] GameObject answers;
+    [SerializeField] GameObject Arrrows;
 
     [SerializeField] TextMeshProUGUI answer1Text;
     [SerializeField] TextMeshProUGUI answer2Text;
@@ -43,6 +44,7 @@ public class AnswerManager : MonoBehaviour
 
     public void setAnswers(TowerManager.TowerType type, int position)
     {
+        Arrrows.SetActive(false);   
         List<string> tempList = new List<string>();
         switch (towerManager.currentTower)
         {
@@ -148,8 +150,9 @@ public class AnswerManager : MonoBehaviour
             question.SetActive(false);
             towers.SetActive(true);
             answers.SetActive(false);
+            Arrrows.SetActive(true);
 
-            
+
 
             checkTowerResults();
         }

@@ -5,7 +5,9 @@ public class StarsManager : MonoBehaviour
     void Start()
     {
         PlayerPrefs.SetInt("Level1Stars", 3);
+        
         CheckLevel1();
+        
     }
     void CheckLevel1()
     {
