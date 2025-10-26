@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: f5007c0fa4c593a4599a1477b4f11f7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9219497379831211044
+    second: Titulito_0
+  - first:
+      213: -4295874780459840069
+    second: Titulito_1
+  - first:
+      213: -9028836587378524346
+    second: Titulito_2
+  - first:
+      213: -7140172182584295846
+    second: Titulito_3
+  - first:
+      213: -1549549008548313284
+    second: Titulito_4
+  - first:
+      213: 6320917995787081299
+    second: Titulito_5
+  - first:
+      213: 6573804979473761653
+    second: Titulito_6
+  - first:
+      213: -5286237073489366993
+    second: Titulito_7
+  - first:
+      213: 4894080100267841245
+    second: Titulito_8
+  - first:
+      213: 4544777828539610420
+    second: Titulito_9
+  - first:
+      213: -7615482210802974218
+    second: Titulito_10
+  - first:
+      213: 3547860739788111464
+    second: Titulito_11
+  - first:
+      213: -1995323301049019204
+    second: Titulito_12
+  - first:
+      213: -642305158276843888
+    second: Titulito_13
+  - first:
+      213: -2391827319609308541
+    second: Titulito_14
+  - first:
+      213: -7595930267607825590
+    second: Titulito_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Titulito_0
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1727
+        width: 959
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb1483eaf3cd0080800000000000000
+      internalID: -9219497379831211044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 1513, y: 1080}
+      - {x: 1748, y: 1080}
+      - {x: 1748, y: 1096}
+      - {x: 1513, y: 1096}
+    - - {x: 197, y: 494}
+      - {x: 1123, y: 494}
+      - {x: 1123, y: 901}
+      - {x: 197, y: 901}
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Titulito_0: -9219497379831211044
+      Titulito_1: -4295874780459840069
+      Titulito_10: -7615482210802974218
+      Titulito_11: 3547860739788111464
+      Titulito_12: -1995323301049019204
+      Titulito_13: -642305158276843888
+      Titulito_14: -2391827319609308541
+      Titulito_15: -7595930267607825590
+      Titulito_16: 1936264259
+      Titulito_2: -9028836587378524346
+      Titulito_3: -7140172182584295846
+      Titulito_4: -1549549008548313284
+      Titulito_5: 6320917995787081299
+      Titulito_6: 6573804979473761653
+      Titulito_7: -5286237073489366993
+      Titulito_8: 4894080100267841245
+      Titulito_9: 4544777828539610420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
