@@ -8,6 +8,10 @@ public class LevelManager : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
+    public void StartLevel0()
+    {
+        SceneManager.LoadScene(3);
+    }
 }
 
 

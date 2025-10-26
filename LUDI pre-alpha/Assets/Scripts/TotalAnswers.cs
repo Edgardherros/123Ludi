@@ -57,4 +57,65 @@ public class TotalAnswers : MonoBehaviour
         SceneManager.LoadSceneAsync(0);
     }
 
+    public void SetStarsLevel0()
+    {
+        
+        if (answerManager.rightAnswered == 15)
+        {
+            PlayerPrefs.SetInt("Level0Stars", 3);
+        }
+        else if (answerManager.rightAnswered >= 12)
+        {
+            if(PlayerPrefs.HasKey("Level0Stars") && PlayerPrefs.GetInt("Level0Stars") < 2)
+            PlayerPrefs.SetInt("Level0Stars", 2);
+            else if (!PlayerPrefs.HasKey("Level0Stars"))
+                PlayerPrefs.SetInt("Level0Stars", 2);
+        }
+        else if (answerManager.rightAnswered >= 9)
+        {
+            if (PlayerPrefs.HasKey("Level0Stars") && PlayerPrefs.GetInt("Level0Stars") < 1)
+                PlayerPrefs.SetInt("Level0Stars", 1);
+            else if (!PlayerPrefs.HasKey("Level0Stars"))
+                PlayerPrefs.SetInt("Level0Stars", 1);
+        }
+        else
+        {
+            if (PlayerPrefs.HasKey("Level0Stars") && PlayerPrefs.GetInt("Level0Stars") < 0)
+                PlayerPrefs.SetInt("Level0Stars", 0);
+            else if (!PlayerPrefs.HasKey("Level0Stars"))
+                PlayerPrefs.SetInt("Level0Stars", 0);
+        }
+
+    }
+    public void SetStarsLevel1()
+    {
+
+        if (answerManager.rightAnswered == 15)
+        {
+            PlayerPrefs.SetInt("Level1Stars", 3);
+        }
+        else if (answerManager.rightAnswered >= 12)
+        {
+            if (PlayerPrefs.HasKey("Level1Stars") && PlayerPrefs.GetInt("Level1Stars") < 2)
+                PlayerPrefs.SetInt("Level1Stars", 2);
+            else if (!PlayerPrefs.HasKey("Level1Stars"))
+                PlayerPrefs.SetInt("Level1Stars", 2);
+        }
+        else if (answerManager.rightAnswered >= 9)
+        {
+            if (PlayerPrefs.HasKey("Level1Stars") && PlayerPrefs.GetInt("Level1Stars") < 1)
+                PlayerPrefs.SetInt("Level1Stars", 1);
+            else if (!PlayerPrefs.HasKey("Level1Stars"))
+                PlayerPrefs.SetInt("Level1Stars", 1);
+        }
+        else
+        {
+            if (PlayerPrefs.HasKey("Level0Stars") && PlayerPrefs.GetInt("Level0Stars") < 0)
+                PlayerPrefs.SetInt("Level1Stars", 0);
+            else if (!PlayerPrefs.HasKey("Level1Stars"))
+                PlayerPrefs.SetInt("Level1Stars", 0);
+        }
+
+    }
+
 }

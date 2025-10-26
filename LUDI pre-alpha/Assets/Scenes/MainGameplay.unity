@@ -4507,6 +4507,9 @@ MonoBehaviour:
   - "\xBFCu\xE1l de estas palabras est\xE1 bien escrita?"
   - "\xBFCu\xE1l de estas palabras est\xE1 bien escrita?"
   - "\xBFCu\xE1l de estas palabras est\xE1 bien escrita?"
+  answeredSemanticsQuestions: 
+  answeredGrammarQuestions: 
+  answeredOrtographyQuestions: 
 --- !u!4 &1225027603
 Transform:
   m_ObjectHideFlags: 0
@@ -4855,7 +4858,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20.6
+  m_fontSize: 18
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5585,6 +5588,7 @@ MonoBehaviour:
   question: {fileID: 110064354}
   towers: {fileID: 640997588}
   answers: {fileID: 1033025595}
+  Arrrows: {fileID: 0}
   answer1Text: {fileID: 240867639}
   answer2Text: {fileID: 1058396961}
   answer3Text: {fileID: 2065054084}
@@ -6346,6 +6350,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1908197920}
+        m_TargetAssemblyTypeName: TotalAnswers, Assembly-CSharp
+        m_MethodName: SetStarsLevel1
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1859043485
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6722,6 +6738,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1908197920}
         m_TargetAssemblyTypeName: TotalAnswers, Assembly-CSharp
         m_MethodName: restartGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1908197920}
+        m_TargetAssemblyTypeName: TotalAnswers, Assembly-CSharp
+        m_MethodName: SetStarsLevel1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
