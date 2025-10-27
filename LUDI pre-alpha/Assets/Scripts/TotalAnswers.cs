@@ -14,7 +14,7 @@ public class TotalAnswers : MonoBehaviour
     [SerializeField] TextMeshProUGUI score;
     [SerializeField] TextMeshProUGUI demiseText;
     [SerializeField] GameObject resultsPanel;
-
+    [SerializeField] GameObject[] stars;
 
     private void Start()
     {
@@ -24,6 +24,7 @@ public class TotalAnswers : MonoBehaviour
     void Update()
     {
         score.text = currentAnswer + "/" + totalAnswers;
+
     }
     public void answerWasCorrect()
     {
@@ -40,6 +41,23 @@ public class TotalAnswers : MonoBehaviour
         }
         else
         {
+            int totalStars = 0;
+            if (answerManager.rightAnswered == 15)
+            {
+               totalStars = 3;
+            }
+            else if (answerManager.rightAnswered >= 12)
+            {
+                totalStars = 2;
+            }
+            else if (answerManager.rightAnswered >= 9)
+            {
+               totalStars = 1;
+            }
+            for(int i = 0; i < totalStars; i++)
+            {
+                stars[i].SetActive(true);
+            }
             demiseText.text = "You Won!";
             demiseText.color = Color.green;
         }
