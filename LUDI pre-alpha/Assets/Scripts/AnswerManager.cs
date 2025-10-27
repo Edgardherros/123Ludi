@@ -44,7 +44,7 @@ public class AnswerManager : MonoBehaviour
 
     const int maxQuestions = 5;
 
-    int questionsAnswered = 0;
+    public int questionsAnswered = 0;
     public int rightAnswered = 0;
 
     public void setAnswers(TowerManager.TowerType type, int position)
@@ -150,8 +150,10 @@ public class AnswerManager : MonoBehaviour
             answerButtonsImage[position - 1].color = Color.red;
             Instantiate(wrongEffect, answerButtonsImage[position - 1].transform);
         }
-        
-        
+    }
+
+    public void updateQuestions()
+    {
         if (questionsAnswered < maxQuestions)
         {
             questionManager.setQuestion();
@@ -159,7 +161,7 @@ public class AnswerManager : MonoBehaviour
         }
         else
         {
-            if(tutorialActive)
+            if (tutorialActive)
             {
                 Arrrows.SetActive(true);
             }
@@ -167,7 +169,7 @@ public class AnswerManager : MonoBehaviour
             question.SetActive(false);
             towers.SetActive(true);
             answers.SetActive(false);
-            
+
 
 
 

@@ -10,8 +10,11 @@ public class TotalAnswers : MonoBehaviour
     private int currentAnswer = 0;
     
     [SerializeField] AnswerManager answerManager;
+
+    [SerializeField] Image[] progressBar;
+    [SerializeField] Sprite rightAnswered;
+    [SerializeField] Sprite notAnswered;
     
-    [SerializeField] TextMeshProUGUI score;
     [SerializeField] TextMeshProUGUI demiseText;
     [SerializeField] GameObject resultsPanel;
     [SerializeField] GameObject[] stars;
@@ -21,13 +24,10 @@ public class TotalAnswers : MonoBehaviour
         resultsPanel.SetActive(false);
     }
 
-    void Update()
-    {
-        score.text = currentAnswer + "/" + totalAnswers;
 
-    }
     public void answerWasCorrect()
     {
+        progressBar[answerManager.questionsAnswered-1].sprite = rightAnswered;
         currentAnswer++;
        
     }

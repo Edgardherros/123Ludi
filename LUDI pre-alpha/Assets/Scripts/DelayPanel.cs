@@ -3,8 +3,9 @@ using UnityEngine.UI;
 
 public class DelayPanel : MonoBehaviour
 {
+    [SerializeField] AnswerManager answerManager;
     float timer = 0;
-    float delay = 2;
+    float delay = 1;
     Image panel;
 
 
@@ -25,6 +26,7 @@ public class DelayPanel : MonoBehaviour
             if(timer >= delay)
             {
                 panel.enabled = false;
+                answerManager.updateQuestions();
             }
         }
     }
