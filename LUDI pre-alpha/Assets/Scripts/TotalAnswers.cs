@@ -27,7 +27,7 @@ public class TotalAnswers : MonoBehaviour
 
     public void answerWasCorrect()
     {
-        progressBar[answerManager.questionsAnswered-1].sprite = rightAnswered;
+        progressBar[answerManager.rightAnswered - 1].sprite = rightAnswered;
         currentAnswer++;
        
     }
