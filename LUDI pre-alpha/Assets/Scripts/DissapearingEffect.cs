@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class DissapearingEffect : MonoBehaviour
 {
-    const float colorResetValue = 0.5f;
+    const float colorResetValue = 0.2f;
 
     SpriteRenderer image;
     void Awake()
