@@ -6,6 +6,8 @@ using UnityEngine.UI;
 
 public class AnswerManager : MonoBehaviour
 {
+    [SerializeField] bool tutorialActive;
+
     [SerializeField] QuestionManager questionManager;
     [SerializeField] TowerManager towerManager;
     [SerializeField] TotalAnswers totalAnswers;
@@ -14,6 +16,9 @@ public class AnswerManager : MonoBehaviour
     [SerializeField] GameObject towers;
     [SerializeField] GameObject answers;
     [SerializeField] GameObject Arrrows;
+    [SerializeField] GameObject rightEffect;
+    [SerializeField] GameObject wrongEffect;
+    [SerializeField] DelayPanel delayPanel;
 
     [SerializeField] TextMeshProUGUI answer1Text;
     [SerializeField] TextMeshProUGUI answer2Text;
@@ -44,7 +49,12 @@ public class AnswerManager : MonoBehaviour
 
     public void setAnswers(TowerManager.TowerType type, int position)
     {
-        Arrrows.SetActive(false);   
+        if(tutorialActive)
+        {
+            Arrrows.SetActive(false);
+        }
+
+          
         List<string> tempList = new List<string>();
         switch (towerManager.currentTower)
         {
@@ -125,18 +135,20 @@ public class AnswerManager : MonoBehaviour
 
     public void chosenAnswer(int position)
     {
-        
+        delayPanel.activateDelay();   
         questionsAnswered++;
 
         if (position == rightAnswerPosition)
         {
             rightAnswered++;
+            Instantiate(rightEffect, answerButtonsImage[position - 1].transform);
             answerButtonsImage[position - 1].color = Color.green;
             totalAnswers.answerWasCorrect();
         }
         else
         {
             answerButtonsImage[position - 1].color = Color.red;
+            Instantiate(wrongEffect, answerButtonsImage[position - 1].transform);
         }
         
         
@@ -147,10 +159,15 @@ public class AnswerManager : MonoBehaviour
         }
         else
         {
+            if(tutorialActive)
+            {
+                Arrrows.SetActive(true);
+            }
+
             question.SetActive(false);
             towers.SetActive(true);
             answers.SetActive(false);
-            Arrrows.SetActive(true);
+            
 
 
 
