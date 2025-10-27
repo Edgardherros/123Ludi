@@ -7716,9 +7716,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1908197920}
-        m_TargetAssemblyTypeName: TotalAnswers, Assembly-CSharp
-        m_MethodName: goToTitleScreen
+      - m_Target: {fileID: 1124401923}
+        m_TargetAssemblyTypeName: Menu, Assembly-CSharp
+        m_MethodName: GoToMainTitle
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8358,9 +8358,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1908197920}
-        m_TargetAssemblyTypeName: TotalAnswers, Assembly-CSharp
-        m_MethodName: restartGame
+      - m_Target: {fileID: 1124401923}
+        m_TargetAssemblyTypeName: Menu, Assembly-CSharp
+        m_MethodName: ResetLevel1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8715,7 +8715,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1124401923}
         m_TargetAssemblyTypeName: Menu, Assembly-CSharp
-        m_MethodName: StartGame
+        m_MethodName: GoToMainTitle
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

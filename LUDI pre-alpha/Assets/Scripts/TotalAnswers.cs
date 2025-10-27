@@ -56,6 +56,7 @@ public class TotalAnswers : MonoBehaviour
             }
             for(int i = 0; i < totalStars; i++)
             {
+                Debug.Log(i);
                 stars[i].SetActive(true);
             }
             demiseText.text = "You Won!";
