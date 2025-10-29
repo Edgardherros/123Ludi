@@ -5,7 +5,7 @@ public class DelayPanel : MonoBehaviour
 {
     [SerializeField] AnswerManager answerManager;
     float timer = 0;
-    float delay = 1;
+    float delay = 1.5f;
     Image panel;
 
 

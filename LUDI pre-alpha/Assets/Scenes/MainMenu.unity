@@ -2522,7 +2522,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: AJUSTES
+  m_text: OPCIONS
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5db06d9ced1b99f48a94e575ab8ce20f, type: 2}
   m_sharedMaterial: {fileID: 659700026183201559, guid: 5db06d9ced1b99f48a94e575ab8ce20f, type: 2}
@@ -2858,7 +2858,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Musica
+  m_text: "M\xFAsica"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5db06d9ced1b99f48a94e575ab8ce20f, type: 2}
   m_sharedMaterial: {fileID: 659700026183201559, guid: 5db06d9ced1b99f48a94e575ab8ce20f, type: 2}
@@ -3725,7 +3725,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SALIR
+  m_text: SORTIR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5db06d9ced1b99f48a94e575ab8ce20f, type: 2}
   m_sharedMaterial: {fileID: 659700026183201559, guid: 5db06d9ced1b99f48a94e575ab8ce20f, type: 2}

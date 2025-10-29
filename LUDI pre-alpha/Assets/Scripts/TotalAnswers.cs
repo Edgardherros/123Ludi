@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -14,7 +15,9 @@ public class TotalAnswers : MonoBehaviour
     [SerializeField] Image[] progressBar;
     [SerializeField] Sprite rightAnswered;
     [SerializeField] Sprite notAnswered;
-    
+    [SerializeField] AudioSource victorySound;
+    [SerializeField] AudioSource loseAudio;
+
     [SerializeField] TextMeshProUGUI demiseText;
     [SerializeField] GameObject resultsPanel;
     [SerializeField] GameObject[] stars;
@@ -22,6 +25,7 @@ public class TotalAnswers : MonoBehaviour
     private void Start()
     {
         resultsPanel.SetActive(false);
+        
     }
 
 
@@ -36,8 +40,9 @@ public class TotalAnswers : MonoBehaviour
     {
         if (answerManager.rightAnswered < 9)
         {
-            demiseText.text = "You lost";
+            demiseText.text = "HAS PERDUT";
             demiseText.color = Color.red;
+            loseAudio.Play();
         }
         else
         {
@@ -59,8 +64,9 @@ public class TotalAnswers : MonoBehaviour
                 Debug.Log(i);
                 stars[i].SetActive(true);
             }
-            demiseText.text = "You Won!";
+            demiseText.text = "HAS GUANYAT";
             demiseText.color = Color.green;
+            victorySound.Play();
         }
         resultsPanel.SetActive(true);
     }

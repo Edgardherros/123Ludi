@@ -12,6 +12,10 @@ public class AnswerManager : MonoBehaviour
     [SerializeField] TowerManager towerManager;
     [SerializeField] TotalAnswers totalAnswers;
 
+    [SerializeField] GameObject SpawnOption;
+    [SerializeField] GameObject rightAnswer;
+    [SerializeField] GameObject badAnswer;
+
     [SerializeField] GameObject question;
     [SerializeField] GameObject towers;
     [SerializeField] GameObject answers;
@@ -144,11 +148,13 @@ public class AnswerManager : MonoBehaviour
             Instantiate(rightEffect, answerButtonsImage[position - 1].transform);
             answerButtonsImage[position - 1].color = Color.green;
             totalAnswers.answerWasCorrect();
+            Instantiate(rightAnswer, SpawnOption.transform);
         }
         else
         {
             answerButtonsImage[position - 1].color = Color.red;
             Instantiate(wrongEffect, answerButtonsImage[position - 1].transform);
+            Instantiate(badAnswer, SpawnOption.transform);
         }
     }
 

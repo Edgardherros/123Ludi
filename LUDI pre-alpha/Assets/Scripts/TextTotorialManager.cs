@@ -14,11 +14,17 @@ public class TextTotorialManager : MonoBehaviour
     [SerializeField] GameObject Serpiente;
     [SerializeField] GameObject Perry;
     [SerializeField] GameObject Flechas;
+    [SerializeField] GameObject LemurPant;
+    [SerializeField] GameObject SerpientePant;
+    [SerializeField] GameObject PerryPant;
 
     private void Start()
     {
         totalDialogos = DialogoTutorial.Length;
-        
+        LemurPant.SetActive(false);
+        SerpientePant.SetActive(false); 
+        PerryPant.SetActive(false);
+
     }
 
     // Update is called once per frame
@@ -50,6 +56,9 @@ public class TextTotorialManager : MonoBehaviour
         {
             Tutorial.SetActive(false);
             Flechas.SetActive(true);
+            LemurPant.SetActive(true);
+            SerpientePant.SetActive(true);
+            PerryPant.SetActive(true);
         }
         else
         {
