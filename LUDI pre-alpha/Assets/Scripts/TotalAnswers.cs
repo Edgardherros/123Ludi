@@ -21,7 +21,7 @@ public class TotalAnswers : MonoBehaviour
     [SerializeField] TextMeshProUGUI demiseText;
     [SerializeField] GameObject resultsPanel;
     [SerializeField] GameObject[] stars;
-
+    [SerializeField] GameObject backgroundMusic;
     private void Start()
     {
         resultsPanel.SetActive(false);
@@ -38,6 +38,7 @@ public class TotalAnswers : MonoBehaviour
 
     public void setResultsScreen()
     {
+        backgroundMusic.GetComponent<AudioSource>().Stop();
         if (answerManager.rightAnswered < 9)
         {
             demiseText.text = "HAS PERDUT";

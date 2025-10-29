@@ -1488,7 +1488,7 @@ MonoBehaviour:
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 12
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
@@ -2145,7 +2145,7 @@ MonoBehaviour:
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 12
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
@@ -3675,7 +3675,7 @@ RectTransform:
   m_GameObject: {fileID: 991134026}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.01, y: 1.01, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1578849221}
@@ -3684,12 +3684,12 @@ RectTransform:
   - {fileID: 901092081}
   - {fileID: 1474592548}
   - {fileID: 2128586076}
-  m_Father: {fileID: 1203180614}
+  m_Father: {fileID: 1282079548}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 136.64957, y: -192.82968}
+  m_SizeDelta: {x: 317.88757, y: 418.3697}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &991134028
 MonoBehaviour:
@@ -4073,7 +4073,7 @@ MonoBehaviour:
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 12
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
@@ -4673,7 +4673,6 @@ RectTransform:
   - {fileID: 110064355}
   - {fileID: 1033025596}
   - {fileID: 1282079548}
-  - {fileID: 991134027}
   - {fileID: 610475672}
   - {fileID: 1783479617}
   m_Father: {fileID: 197515747}
@@ -4779,23 +4778,23 @@ MonoBehaviour:
   towerManager: {fileID: 228787847}
   question: {fileID: 1800884061}
   semanticsQuestions:
-  - "Troba el sin\xF2nim de \"bonic\""
-  - "Troba el sin\xF2nim de \"llest\""
-  - "Troba el sin\xF2nim de \"bo\""
-  - "Troba el sin\xF2nim de \"dolent\""
-  - "Troba el sin\xF2nim de \"pac\xEDfic\""
+  - "Quina paraula vol dir el mateix que \u201Cfeli\xE7\u201D?"
+  - "Quina paraula \xE9s sin\xF2nim de \u201Cgran\u201D?"
+  - "Quina paraula vol dir el mateix que \u201Cenfadat\u201D?"
+  - "Quina paraula s\u2019assembla en significat a \u201Cespantat\u201D?"
+  - "Quina paraula \xE9s sin\xF2nim de \u201Ccasa\u201D?"
   grammarQuestions:
-  - ___, quin mal!
-  - Si tens fred, ___ una manta a l'armari.
-  - Vaig ___ si hi ha llet a la nevera.
-  - Se t'en va l'___.
-  - Ell ___ anat al cinema amb els seus amics.
+  - "Quina \xE9s la forma correcta?"
+  - "Quina s\u2019escriu correctament?"
+  - "Quina \xE9s la paraula ben escrita?"
+  - "Quina \xE9s la forma correcta?"
+  - "Quina s\u2019escriu correctament?"
   ortographyQuestions:
-  - "Quin d'aquests animals fa \"m\xE8u\"?"
-  - "Quin d\u2019aquests objectes trobem al parc?"
-  - "Quina d\u2019aquestes paraules \xE9s una fruita?"
-  - Quin vehicle serveix per anar per la carretera?
-  - "Quina paraula vol dir el contrari de \u201Cnit\u201D?"
+  - "Quin vegetal \xE9s de color taronja?"
+  - Quina part del cos fas servir per sentir-hi?
+  - On viuen els peixos?
+  - "Quin animal fa \u201Cbeee\u201D?"
+  - Quin objecte fas servir per rentar-te les dents?
   answeredSemanticsQuestions: 
   answeredGrammarQuestions: 
   answeredOrtographyQuestions: 
@@ -4844,7 +4843,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.99962896, y: 1.0001839, z: 1.0001839}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 991134027}
   m_Father: {fileID: 1203180614}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.061000004, y: 0.89344454}
@@ -4958,6 +4958,135 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1282079547}
   m_CullTransparentMesh: 1
+--- !u!1 &1303434081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1303434083}
+  - component: {fileID: 1303434082}
+  m_Layer: 0
+  m_Name: ----Music
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1303434082
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303434081}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: -4341219845330505775, guid: 77399186b369f4644ad12c1993a39207, type: 2}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: a973f36bb42a6d74594573ca94b0d544, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1303434083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303434081}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1069.8805, y: 511.79492, z: 7.8704615}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1351238362
 GameObject:
   m_ObjectHideFlags: 0
@@ -5996,7 +6125,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8529332974136115570, guid: 1c9bccfb632c10b409a3a74403f8f103, type: 3}
+  m_Sprite: {fileID: -1510650454217445226, guid: 81005631ba00cd841aa1dcea66a2a0d5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6292,77 +6421,77 @@ MonoBehaviour:
   - {fileID: 190881676}
   - {fileID: 490525476}
   semanticsQuestions1:
-  - Bell
-  - "Perspica\xE7"
-  - "Bondad\xF3s"
-  - Nefast
-  - Seren
+  - Content
+  - Enorme
+  - Molest
+  - Poruc
+  - Llar
   semanticsQuestions2:
-  - Ros
-  - Ximple
-  - Ingenu
-  - Indecent
-  - Particular
-  semanticsQuestions3:
-  - Lleig
-  - Trapella
-  - "Graci\xF3s"
-  - Temerari
-  - Passiu
-  semanticsQuestions4:
-  - Radian
-  - Atrevit
-  - "Bene\xEFt"
-  - "Dubt\xF3s"
-  - Planitud
-  grammarQuestions1:
-  - Ai
-  - Hi ha
-  - A veure
-  - Olla
-  - Ha
-  grammarQuestions2:
-  - "Aqu\xED"
-  - "Aqu\xED"
-  - Haver
-  - Oya
-  - A
-  grammarQuestions3:
-  - 'Hi ha '
-  - Ai
-  - Haver-hi
-  - Hoya
-  - Ah
-  grammarQuestions4:
-  - Ah
-  - "All\xE0"
-  - Aber
-  - Holla
-  - "Le\xF3n"
-  ortographyQuestions1:
-  - El gat
-  - Gronxador
-  - Poma
+  - Fred
+  - Petit
+  - "R\xE0pid"
+  - Alegre
   - Cotxe
-  - dia
+  semanticsQuestions3:
+  - Trist
+  - Curt
+  - Net
+  - Ple
+  - Vell
+  semanticsQuestions4:
+  - Lent
+  - "D\xE8bil"
+  - Dur
+  - Riu
+  - Cel
+  grammarQuestions1:
+  - Taula
+  - Amic
+  - Cotxe
+  - Caminar
+  - Peix
+  grammarQuestions2:
+  - Taulla
+  - Amich
+  - Cotse
+  - Camenar
+  - Peis
+  grammarQuestions3:
+  - "Ta\xFAla"
+  - Amiq
+  - Coche
+  - Caninar
+  - "Pei\xE7"
+  grammarQuestions4:
+  - Teula
+  - Amuic
+  - Cotxce
+  - Ceminar
+  - Pex
+  ortographyQuestions1:
+  - Pastanaga
+  - Orella
+  - "A l\u2019aigua"
+  - Ovella
+  - Raspall
   ortographyQuestions2:
-  - El gos
-  - Llit
-  - Cadira
-  - Vaixell
-  - "Mat\xED"
-  ortographyQuestions3:
-  - L'ocell
-  - "Sof\xE0"
+  - Pera
+  - "M\xE0"
+  - A la terra
+  - Gat
   - Llapis
-  - "Avi\xF3"
-  - Tarda
+  ortographyQuestions3:
+  - "Ra\xEFm"
+  - Peu
+  - Al cel
+  - Porc
+  - Pinta
   ortographyQuestions4:
-  - El peix
-  - Nevera
-  - Llibre
-  - Bicicleta d'aigua
-  - Pluja
+  - Cogombre
+  - Nas
+  - A la neu
+  - Gall
+  - Plat
   questionsAnswered: 0
   rightAnswered: 0
 --- !u!4 &1542203049
@@ -7389,7 +7518,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6141264500810245127, guid: 84973b25d75610e4fb8a2331aaac6076, type: 3}
+  m_Sprite: {fileID: -2786510285233052264, guid: c5c1183bf33a31e4a9947809e56db972, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7465,6 +7594,7 @@ MonoBehaviour:
   - {fileID: 942644366}
   - {fileID: 1648370748}
   - {fileID: 1352892180}
+  backgroundMusic: {fileID: 1303434081}
 --- !u!4 &1908197921
 Transform:
   m_ObjectHideFlags: 0
@@ -8410,7 +8540,7 @@ MonoBehaviour:
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 12
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
@@ -8679,3 +8809,4 @@ SceneRoots:
   - {fileID: 1964990015}
   - {fileID: 238120890}
   - {fileID: 1124401924}
+  - {fileID: 1303434083}
